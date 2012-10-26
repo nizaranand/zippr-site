@@ -1,0 +1,5197 @@
+# Copyright (C) 2010 Kelta
+# This file is distributed under the same license as the Kelta package.
+msgid ""
+msgstr ""
+"Project-Id-Version: Kelta - ru\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/tag/kelta\n"
+"POT-Creation-Date: 2012-05-14 20:41:43+00:00\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"PO-Revision-Date: 2012-05-15 09:33+0100\n"
+"Last-Translator: Nikolay Yordanov <me@nyordanov.com>\n"
+"Language-Team: \n"
+"X-Poedit-Language: ru_RU\n"
+
+#: attachment.php:7
+#, fuzzy
+msgid "Attachment"
+msgstr "Приложение"
+
+#: attachment.php:68
+#, fuzzy
+msgid "Original size is %s pixels"
+msgstr "Исходный размер %s пикселей"
+
+#: attachment.php:71
+#, fuzzy
+msgid "Link to full-size image"
+msgstr "Ссылка на полноразмерное изображение"
+
+#: attachment.php:80
+#, fuzzy
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr "Продолжить чтение <span class=\"meta-nav\">&rarr;</span>"
+
+#: index.php:10
+#, fuzzy
+msgid "Post format: %s"
+msgstr "Формат поста: %s "
+
+#: index.php:11
+#, fuzzy
+msgid "Blog"
+msgstr "Блог"
+
+#: slider-sequence.php:22
+#: wpv_common/shortcodes/sequence.php:63
+#: wpv_common/shortcodes/showcase.php:70
+#: wpv_common/shortcodes/slider.php:85
+#: wpv_common/helpers/wpv-pagination.php:37
+#, fuzzy
+msgid "Previous"
+msgstr "Предыдущее"
+
+#: slider-sequence.php:23
+#: wpv_common/shortcodes/sequence.php:64
+#: wpv_common/shortcodes/showcase.php:71
+#: wpv_common/shortcodes/slider.php:86
+#: wpv_common/helpers/wpv-pagination.php:45
+#, fuzzy
+msgid "Next"
+msgstr "Следующее"
+
+#: page.php:29
+#: single-inner.php:47
+#: single-inner.php:54
+#, fuzzy
+msgid "Pages:"
+msgstr "Страницы:"
+
+#: search.php:7
+#, fuzzy
+msgid "Search Results for: %s"
+msgstr "Результаты поиска для: %s "
+
+#: search.php:34
+#, fuzzy
+msgid "Sorry, nothing found"
+msgstr "Извините, ничего не найдено"
+
+#: author.php:10
+#, fuzzy
+msgid "Posts by %s"
+msgstr "Посты по %s "
+
+#: author.php:34
+#, fuzzy
+msgid "About %s"
+msgstr "Про %s"
+
+#: archive.php:7
+#, fuzzy
+msgid "Blog Archives"
+msgstr "Архивы Блога"
+
+#: archive.php:10
+#, fuzzy
+msgid "Daily Archives: <span>%s</span>"
+msgstr "Архивы по дням: <span>%s</span>"
+
+#: archive.php:12
+#, fuzzy
+msgid "Monthly Archives: <span>%s</span>"
+msgstr "Месячные Архивы: <span>%s</span>"
+
+#: archive.php:14
+#, fuzzy
+msgid "Yearly Archives: <span>%s</span>"
+msgstr "Архивы по годам: <span>%s</span>"
+
+#: archive.php:16
+#, fuzzy
+msgid "Category: %s"
+msgstr "Категория: %s "
+
+#: archive.php:18
+#, fuzzy
+msgid "Tag Archives: %s"
+msgstr "Теги Блогов: %s"
+
+#: header.php:146
+#, fuzzy
+msgid "Skip to content"
+msgstr "Посмотреть содержание"
+
+#: wpv_theme/options/quick_setup/general.php:7
+#: wpv_common/admin/wpv_admin.php:24
+#: wpv_common/wpv_framework.php:354
+#, fuzzy
+msgid "Quick setup"
+msgstr "Быстрая установка"
+
+#: wpv_theme/options/quick_setup/general.php:12
+#: wpv_theme/options/advanced/layouts.php:127
+#: wpv_theme/metaboxes/general.php:7
+#, fuzzy
+msgid "General"
+msgstr "Общее"
+
+#: wpv_theme/options/quick_setup/general.php:17
+#, fuzzy
+msgid "Custom logo picture url"
+msgstr "url на картинку пользовательского лого"
+
+#: wpv_theme/options/quick_setup/general.php:18
+#: wpv_theme/options/advanced/general.php:11
+#, fuzzy
+msgid "Optional way to replace \"heading\" and \"description\" text for your website with an image. Leave blank if none required"
+msgstr "Дополнительный способ замены \"заглавие\" и \"описание\"текст для вашегосайта с изображением. Если не требуется то оставьте поле пустым"
+
+#: wpv_theme/options/quick_setup/general.php:24
+#: wpv_theme/options/advanced/general.php:18
+#, fuzzy
+msgid "Sub header"
+msgstr "Высота колонтитула"
+
+#: wpv_theme/options/quick_setup/general.php:25
+#: wpv_theme/options/advanced/general.php:19
+msgid "Optional text which appears next to the header slider (only if present)"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:32
+#: wpv_theme/options/advanced/general.php:26
+#, fuzzy
+msgid "Copyright text (in footer)"
+msgstr "Текст копирайта (в нижнем колонтитуле)"
+
+#: wpv_theme/options/quick_setup/general.php:33
+#: wpv_theme/options/advanced/general.php:27
+#, fuzzy
+msgid "Custom text to appear in the footer"
+msgstr "Чтобы пользовательский текст появился в нижнем колонтитуле"
+
+#: wpv_theme/options/quick_setup/general.php:39
+#, fuzzy
+msgid "Favicon url"
+msgstr "url на значок"
+
+#: wpv_theme/options/quick_setup/general.php:40
+#, fuzzy
+msgid ""
+"Upload your custom \"favicon\" which is visible in browser favorites and tabs.\n"
+"(Must be .png or .ico file - 16px by 16px ). Leave blank if none required"
+msgstr ""
+"Загрузите свою пользовательскую \"иконку\" которая будет видна в закладках ивкладках.\n"
+"Это должен быть файл .png или .ico - 16px на 16px.). Если не надо оставить пустым"
+
+#: wpv_theme/options/quick_setup/general.php:47
+#: wpv_theme/options/advanced/general.php:89
+#, fuzzy
+msgid "Display \"scroll to top\" button"
+msgstr "Дисплей\"прокрутить вверх\"кпонка"
+
+#: wpv_theme/options/quick_setup/general.php:53
+#: wpv_theme/options/advanced/general.php:95
+#, fuzzy
+msgid "Feedback button"
+msgstr "Кнопка для отзыва"
+
+#: wpv_theme/options/quick_setup/general.php:57
+#: wpv_theme/options/advanced/general.php:99
+#, fuzzy
+msgid "None"
+msgstr "Отсутствует"
+
+#: wpv_theme/options/quick_setup/general.php:58
+#: wpv_theme/options/advanced/general.php:100
+#: wpv_theme/metaboxes/general.php:134
+#: wpv_common/shortcodes/generator/team_member.php:25
+#, fuzzy
+msgid "Link"
+msgstr "Ссылка"
+
+#: wpv_theme/options/quick_setup/general.php:59
+#: wpv_theme/options/advanced/general.php:101
+#, fuzzy
+msgid "Slide out widget area"
+msgstr "Показать окно с графическим фрагментом"
+
+#: wpv_theme/options/quick_setup/general.php:64
+#: wpv_theme/options/advanced/general.php:106
+#, fuzzy
+msgid "Feedback button link"
+msgstr "Ссылка на кнопку для отзыва"
+
+#: wpv_theme/options/quick_setup/general.php:70
+#: wpv_theme/options/advanced/general.php:112
+#, fuzzy
+msgid "RSS Button in top right corner"
+msgstr "RSS Кнопка в верхнем правом углу"
+
+#: wpv_theme/options/quick_setup/general.php:76
+#: wpv_theme/options/advanced/general.php:118
+#, fuzzy
+msgid "Facebook link"
+msgstr "сслыка на Facebook"
+
+#: wpv_theme/options/quick_setup/general.php:82
+#: wpv_theme/options/advanced/general.php:124
+#, fuzzy
+msgid "Twitter link"
+msgstr "ссылка на Twitter"
+
+#: wpv_theme/options/quick_setup/general.php:88
+#: wpv_theme/options/advanced/general.php:130
+#, fuzzy
+msgid "YouTube link"
+msgstr "ссылка на YouTube"
+
+#: wpv_theme/options/quick_setup/general.php:94
+#: wpv_theme/options/advanced/general.php:136
+#, fuzzy
+msgid "Flickr link"
+msgstr "ссылка на Flickr"
+
+#: wpv_theme/options/quick_setup/general.php:100
+#: wpv_theme/options/advanced/general.php:142
+#, fuzzy
+msgid "LinkedIn link"
+msgstr "ссылка LinkedIn"
+
+#: wpv_theme/options/quick_setup/general.php:106
+#: wpv_theme/options/advanced/general.php:148
+#, fuzzy
+msgid "Top menu phone number area"
+msgstr "Верхнее меню поле для номера телефона"
+
+#: wpv_theme/options/quick_setup/general.php:112
+#: wpv_theme/options/advanced/layouts.php:7
+#, fuzzy
+msgid "Layout"
+msgstr "Вид"
+
+#: wpv_theme/options/quick_setup/general.php:117
+#: wpv_theme/options/advanced/layouts.php:17
+msgid "Below you can set the the width of the sidebars in the body, and the height of the header and slider area by dragging the blue gutters. You can enable or disable the slider, the body top widget areas, the body sidebar areas and the footer widget areas. Please note, that whether the slider, the body top widget areas or any of the body sidebars are displayed is just a default setting that can be overridden for newly created pages/posts/portfolio items."
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:123
+#: wpv_theme/options/advanced/layouts.php:23
+#, fuzzy
+msgid "General layout"
+msgstr "Общий вид"
+
+#: wpv_theme/options/quick_setup/general.php:132
+#: wpv_theme/options/advanced/layouts.php:32
+#, fuzzy
+msgid "Sidebar layout for new pages"
+msgstr "Вид ползункового регулятора для новых страниц"
+
+#: wpv_theme/options/quick_setup/general.php:139
+#: wpv_theme/options/advanced/layouts.php:39
+#, fuzzy
+msgid "Enable header slider"
+msgstr "Активировать ползунковый регулятор верхнего колонтитула"
+
+#: wpv_theme/options/quick_setup/general.php:146
+#: wpv_theme/options/advanced/layouts.php:46
+msgid "Enable body top widget areas"
+msgstr ""
+
+#: wpv_theme/options/quick_setup/general.php:153
+#: wpv_theme/options/advanced/layouts.php:53
+#, fuzzy
+msgid "Enable footer widget areas"
+msgstr " Активировать графический фрагмент нижнего колонтитула "
+
+#: wpv_theme/options/quick_setup/general.php:160
+#: wpv_theme/options/advanced/layouts.php:60
+#: wpv_theme/metaboxes/general.php:33
+#, fuzzy
+msgid "Layout type"
+msgstr "Тип вида"
+
+#: wpv_theme/options/quick_setup/general.php:164
+#: wpv_theme/options/advanced/layouts.php:64
+#, fuzzy
+msgid "Boxed asymetrical"
+msgstr "Активировать рамочный вид"
+
+#: wpv_theme/options/quick_setup/general.php:165
+#: wpv_theme/options/advanced/layouts.php:65
+#, fuzzy
+msgid "Boxed symetrical"
+msgstr "Активировать рамочный вид"
+
+#: wpv_theme/options/quick_setup/general.php:166
+#: wpv_theme/options/advanced/layouts.php:66
+#, fuzzy
+msgid "Full width"
+msgstr "Полная ширина"
+
+#: wpv_theme/options/quick_setup/general.php:179
+#: wpv_theme/options/advanced/layouts.php:83
+#, fuzzy
+msgid "Header height"
+msgstr "Высота колонтитула"
+
+#: wpv_theme/options/quick_setup/general.php:181
+#: wpv_theme/options/advanced/layouts.php:85
+#, fuzzy
+msgid "This is the area above the slider"
+msgstr "Это площадь над слайдером"
+
+#: wpv_theme/options/quick_setup/general.php:189
+#: wpv_theme/options/advanced/layouts.php:92
+#, fuzzy
+msgid "Header slider height"
+msgstr "Высота слайдера верхнего колонтитула"
+
+#: wpv_theme/options/quick_setup/general.php:190
+#: wpv_theme/options/advanced/layouts.php:93
+#, fuzzy
+msgid "In pixels"
+msgstr "В пикселях"
+
+#: wpv_theme/options/quick_setup/general.php:199
+#: wpv_theme/options/advanced/layouts.php:101
+#, fuzzy
+msgid "Left sidebar width"
+msgstr "Длина левого бокового блока"
+
+#: wpv_theme/options/quick_setup/general.php:207
+#: wpv_theme/options/advanced/layouts.php:108
+#, fuzzy
+msgid "Right sidebar width"
+msgstr "Длина правого бокового блока"
+
+#: wpv_theme/options/quick_setup/general.php:216
+#: wpv_theme/options/advanced/style.php:4
+#, fuzzy
+msgid "Styles"
+msgstr "Стили"
+
+#: wpv_theme/options/quick_setup/general.php:221
+#, fuzzy
+msgid "Main background"
+msgstr "Общий фон"
+
+#: wpv_theme/options/quick_setup/general.php:227
+#, fuzzy
+msgid "You can also choose some of the preset background patterns we've crafted for you"
+msgstr "Вы также можете выбрать один из существующих фонов, которые мы создали длявас"
+
+#: wpv_theme/options/quick_setup/general.php:236
+#: wpv_theme/options/advanced/style.php:29
+#, fuzzy
+msgid "Pattern 00"
+msgstr "Образец 00"
+
+#: wpv_theme/options/quick_setup/general.php:245
+#: wpv_theme/options/advanced/style.php:38
+#, fuzzy
+msgid "Pattern 01"
+msgstr "Образец 01"
+
+#: wpv_theme/options/quick_setup/general.php:254
+#: wpv_theme/options/advanced/style.php:47
+#, fuzzy
+msgid "Pattern 02"
+msgstr " Образец  02"
+
+#: wpv_theme/options/quick_setup/general.php:263
+#: wpv_theme/options/advanced/style.php:56
+#, fuzzy
+msgid "Pattern 03"
+msgstr " Образец  03"
+
+#: wpv_theme/options/quick_setup/general.php:272
+#: wpv_theme/options/advanced/style.php:65
+#, fuzzy
+msgid "Pattern 04"
+msgstr " Образец  04"
+
+#: wpv_theme/options/quick_setup/general.php:281
+#: wpv_theme/options/advanced/style.php:74
+#, fuzzy
+msgid "Pattern 05"
+msgstr " Образец 05 "
+
+#: wpv_theme/options/quick_setup/general.php:290
+#: wpv_theme/options/advanced/style.php:83
+#, fuzzy
+msgid "Pattern 06"
+msgstr " Образец  06"
+
+#: wpv_theme/options/quick_setup/general.php:299
+#: wpv_theme/options/advanced/style.php:92
+#, fuzzy
+msgid "Pattern 07"
+msgstr " Образец  07"
+
+#: wpv_theme/options/quick_setup/general.php:308
+#: wpv_theme/options/advanced/style.php:101
+#, fuzzy
+msgid "Pattern 08"
+msgstr " Образец  08"
+
+#: wpv_theme/options/quick_setup/general.php:317
+#: wpv_theme/options/advanced/style.php:110
+#, fuzzy
+msgid "Pattern 09"
+msgstr " Образец  09"
+
+#: wpv_theme/options/quick_setup/general.php:326
+#: wpv_theme/options/advanced/style.php:119
+#, fuzzy
+msgid "Pattern 10"
+msgstr " Образец  10"
+
+#: wpv_theme/options/quick_setup/general.php:335
+#: wpv_theme/options/advanced/style.php:128
+#, fuzzy
+msgid "Pattern 11"
+msgstr " Образец  11"
+
+#: wpv_theme/options/quick_setup/general.php:344
+#: wpv_theme/options/advanced/style.php:137
+#, fuzzy
+msgid "Pattern 12"
+msgstr " Образец  12"
+
+#: wpv_theme/options/quick_setup/general.php:353
+#: wpv_theme/options/advanced/style.php:146
+#, fuzzy
+msgid "Pattern 13"
+msgstr " Образец  13"
+
+#: wpv_theme/options/quick_setup/general.php:362
+#: wpv_theme/options/advanced/style.php:155
+#, fuzzy
+msgid "Pattern 14"
+msgstr " Образец  14"
+
+#: wpv_theme/options/quick_setup/general.php:371
+#: wpv_theme/options/advanced/style.php:164
+#, fuzzy
+msgid "Pattern 15"
+msgstr " Образец  15"
+
+#: wpv_theme/options/quick_setup/general.php:383
+#, fuzzy
+msgid "Accent color"
+msgstr " Основной цвет "
+
+#: wpv_theme/options/quick_setup/general.php:389
+#, fuzzy
+msgid "Accent color 2"
+msgstr " Основной цвет 2"
+
+#: wpv_theme/options/quick_setup/general.php:395
+#, fuzzy
+msgid "Accent color 3"
+msgstr " Основной цвет 3"
+
+#: wpv_theme/options/quick_setup/general.php:401
+#, fuzzy
+msgid "Header slider"
+msgstr "Слайдер верхнего колонтитула"
+
+#: wpv_theme/options/quick_setup/general.php:406
+#: wpv_theme/options/advanced/sliders.php:11
+#, fuzzy
+msgid "Slider editor"
+msgstr "Редактор слайдера"
+
+#: wpv_theme/options/quick_setup/general.php:407
+#: wpv_theme/options/advanced/sliders.php:12
+#, fuzzy
+msgid "Create a new slider, drag some images, set their captions and you'll have a nice looking slider"
+msgstr "Создать новый слайдер, выбрать несколько ихображений, отредактировать их и у вас будетотличный слайдер"
+
+#: wpv_theme/options/quick_setup/general.php:412
+#: wpv_theme/options/advanced/sliders.php:17
+#, fuzzy
+msgid "Default slider"
+msgstr "Слайдер по умолчанию"
+
+#: wpv_theme/options/quick_setup/general.php:421
+#: wpv_theme/options/advanced/sliders.php:26
+#: wpv_theme/metaboxes/general.php:120
+#: wpv_common/shortcodes/generator/sequence.php:60
+#: wpv_common/shortcodes/generator/slider.php:84
+#, fuzzy
+msgid "Slider style"
+msgstr "Стиль слайдера"
+
+#: wpv_theme/options/quick_setup/general.php:428
+#: wpv_theme/options/advanced/sliders.php:52
+#, fuzzy
+msgid "Autostart"
+msgstr "Автостарт"
+
+#: wpv_theme/options/quick_setup/general.php:432
+#: wpv_theme/options/advanced/sliders.php:56
+#, fuzzy
+msgid "Disable autostart"
+msgstr "Отключить автостарт"
+
+#: wpv_theme/options/quick_setup/general.php:433
+#: wpv_theme/options/advanced/sliders.php:57
+#, fuzzy
+msgid "Left (backwards)"
+msgstr "Налево (назад)"
+
+#: wpv_theme/options/quick_setup/general.php:434
+#: wpv_theme/options/advanced/sliders.php:58
+#, fuzzy
+msgid "Right (forwards)"
+msgstr "Направо (вперед)"
+
+#: wpv_theme/options/quick_setup/general.php:439
+#, fuzzy
+msgid "Advanced"
+msgstr "Дополнительно"
+
+#: wpv_theme/options/quick_setup/general.php:444
+#: wpv_theme/options/advanced/general.php:67
+#, fuzzy
+msgid "Custom css"
+msgstr "Пользовательский css"
+
+#: wpv_theme/options/quick_setup/general.php:445
+#, fuzzy
+msgid "Quickly add some CSS to your theme by adding it to this block. It will be parsed with cssmin"
+msgstr "Быстро добавить CSS к вашей теме, добавив его в этот блок. Он будетпроанализирован cssmin"
+
+#: wpv_theme/options/advanced/sidebars.php:6
+#, fuzzy
+msgid "Manage sidebars"
+msgstr "Редактировать боковые блоки"
+
+#: wpv_theme/options/advanced/layouts.php:12
+#, fuzzy
+msgid "Simple layout editor"
+msgstr "Редактор простого вида"
+
+#: wpv_theme/options/advanced/layouts.php:78
+#, fuzzy
+msgid "Precise adjustment"
+msgstr "Точная настройка"
+
+#: wpv_theme/options/advanced/layouts.php:121
+#, fuzzy
+msgid "Body Layout"
+msgstr "Общий вид"
+
+#: wpv_theme/options/advanced/layouts.php:132
+#, fuzzy
+msgid "Show page title"
+msgstr "Показать заглавие страницы"
+
+#: wpv_theme/options/advanced/layouts.php:138
+#: wpv_theme/options/advanced/layouts.php:246
+#, fuzzy
+msgid "Basic sidebars"
+msgstr "Базовые боковые блоки"
+
+#: wpv_theme/options/advanced/layouts.php:139
+#, fuzzy
+msgid ""
+"The widget areas bellow are placed between the slider and the body of the site. By default these areas are disabled. They can be enabled on every single page or post\n"
+"You can either choose one of the predefined layouts or configure your own in the \"Advanced\" section"
+msgstr ""
+"Поля графических фрагментов внизу будут размещены между слайдером и основойсайта. Они отключены по умолчанию. Они могут быть включены на каждойстранице или посте\n"
+"Вы можете либо выбрать один из предопределенных видов, или настроить всекции \"Дополнительно\" свой собственный"
+
+#: wpv_theme/options/advanced/layouts.php:145
+#, fuzzy
+msgid "The widget areas bellow are placed between the slider and the body of the site. By default these areas are disabled. They can be enabled on every single page or post. You can either choose one of the predefined layouts or configure your own in the \"Advanced\" section"
+msgstr "Поля графических фрагментов внизу будут размещены между слайдером и основойсайта. Они отключены по умолчанию. Они могут быть включены на каждойстранице или посте. Вы можете либо выбрать один из предопределенных видов, илинастроить в секции \"Дополнительно\" свой собственный"
+
+#: wpv_theme/options/advanced/layouts.php:154
+#: wpv_theme/options/advanced/layouts.php:260
+#, fuzzy
+msgid "1/3 | 1/3 | 1/3"
+msgstr "1/3 | 1/3 | 1/3"
+
+#: wpv_theme/options/advanced/layouts.php:173
+#: wpv_theme/options/advanced/layouts.php:279
+#, fuzzy
+msgid "1/4 | 1/4 | 1/4 | 1/4"
+msgstr "1/4 | 1/4 | 1/4 | 1/4"
+
+#: wpv_theme/options/advanced/layouts.php:193
+#: wpv_theme/options/advanced/layouts.php:299
+#, fuzzy
+msgid "1/5 | 1/5 | 1/5 | 1/5 | 1/5"
+msgstr "1/5 | 1/5 | 1/5 | 1/5 | 1/5"
+
+#: wpv_theme/options/advanced/layouts.php:215
+#: wpv_theme/options/advanced/layouts.php:321
+#, fuzzy
+msgid "Advanced sidebars"
+msgstr "Дополнительные боковые блоки"
+
+#: wpv_theme/options/advanced/layouts.php:220
+#: wpv_theme/options/advanced/layouts.php:326
+#, fuzzy
+msgid "Please choose the number of widget areas and adjust each widget area's settings. You can adjust the width of the widget area from the sixth predefined and place them in one to six rows."
+msgstr "Пожалуйста, выберите количество полей графического фрагмента и настройте кажды"
+
+#: wpv_theme/options/advanced/layouts.php:240
+#, fuzzy
+msgid "Footer Layout"
+msgstr "Вид нижнего колонтитула"
+
+#: wpv_theme/options/advanced/layouts.php:251
+#, fuzzy
+msgid "The footer widget areas are placed after the body of the site. You can either choose one of the predefined layouts or configure your own in the \"Advanced\" section"
+msgstr "Поля графического фрагмента в нижнем колонтитуле ставятся после основной части сайта.Вы можете выбрать один из предопределенных видов или настроить свой собственный в"
+
+#: wpv_theme/options/advanced/style.php:9
+#, fuzzy
+msgid "General Backgrounds"
+msgstr "Общие Фоны"
+
+#: wpv_theme/options/advanced/style.php:14
+#, fuzzy
+msgid "Page background"
+msgstr "Фон страницы"
+
+#: wpv_theme/options/advanced/style.php:20
+#, fuzzy
+msgid "You can also use some of the preset background patterns we've crafted for you"
+msgstr "Вы также можете использовать некоторые предопределенные образцы , которые мысоздали для вас"
+
+#: wpv_theme/options/advanced/style.php:176
+#, fuzzy
+msgid "General Colors"
+msgstr "Общие цвета"
+
+#: wpv_theme/options/advanced/style.php:181
+msgid "Left column text highlight"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:187
+#, fuzzy
+msgid "Accents and helpers"
+msgstr "Вид и стиль"
+
+#: wpv_theme/options/advanced/style.php:194
+#, fuzzy
+msgid "accent 1"
+msgstr " Основной цвет "
+
+#: wpv_theme/options/advanced/style.php:195
+#, fuzzy
+msgid "accent 2"
+msgstr " Основной цвет "
+
+#: wpv_theme/options/advanced/style.php:196
+#, fuzzy
+msgid "accent 3"
+msgstr " Основной цвет "
+
+#: wpv_theme/options/advanced/style.php:197
+#, fuzzy
+msgid "accent 4"
+msgstr " Основной цвет "
+
+#: wpv_theme/options/advanced/style.php:202
+msgid "The helper elements consist of separators, underlines, borders, etc"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:207
+msgid "Header helper elements style"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:211
+#: wpv_theme/options/advanced/style.php:221
+#: wpv_theme/options/advanced/style.php:231
+#: wpv_theme/options/advanced/style.php:241
+#: wpv_common/shortcodes/generator/button.php:79
+#, fuzzy
+msgid "Light"
+msgstr "Светлый"
+
+#: wpv_theme/options/advanced/style.php:212
+#: wpv_theme/options/advanced/style.php:222
+#: wpv_theme/options/advanced/style.php:232
+#: wpv_theme/options/advanced/style.php:242
+#: wpv_common/shortcodes/generator/button.php:78
+#, fuzzy
+msgid "Dark"
+msgstr "Темный"
+
+#: wpv_theme/options/advanced/style.php:217
+msgid "Slider helper elements style"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:227
+msgid "Body helper elements style"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:237
+msgid "Footer helper elements style"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:253
+#, fuzzy
+msgid "General Typography"
+msgstr "Общая типография"
+
+#: wpv_theme/options/advanced/style.php:259
+#, fuzzy
+msgid "Emphasis font"
+msgstr "Выделительный шрифт"
+
+#: wpv_theme/options/advanced/style.php:269
+#, fuzzy
+msgid "h1"
+msgstr "h1"
+
+#: wpv_theme/options/advanced/style.php:279
+#, fuzzy
+msgid "h2"
+msgstr "h2"
+
+#: wpv_theme/options/advanced/style.php:289
+#, fuzzy
+msgid "h3"
+msgstr "h3"
+
+#: wpv_theme/options/advanced/style.php:299
+#, fuzzy
+msgid "h4"
+msgstr "h4"
+
+#: wpv_theme/options/advanced/style.php:309
+#, fuzzy
+msgid "h5"
+msgstr "h5"
+
+#: wpv_theme/options/advanced/style.php:319
+#, fuzzy
+msgid "h6"
+msgstr "h6"
+
+#: wpv_theme/options/advanced/style.php:335
+#, fuzzy
+msgid "Header"
+msgstr "Верхний колонтитул"
+
+#: wpv_theme/options/advanced/style.php:341
+#: wpv_theme/options/advanced/style.php:460
+#, fuzzy
+msgid "Backgrounds"
+msgstr "Фоны"
+
+#: wpv_theme/options/advanced/style.php:347
+#, fuzzy
+msgid "Header background"
+msgstr "Фон верхнего колонтитула"
+
+#: wpv_theme/options/advanced/style.php:352
+#, fuzzy
+msgid "Header background color opacity"
+msgstr "Цветовая сместимость фона верхнего колонтитула"
+
+#: wpv_theme/options/advanced/style.php:361
+#, fuzzy
+msgid "Header slider background"
+msgstr "Фон слайдера верхнего колонтитула"
+
+#: wpv_theme/options/advanced/style.php:367
+#, fuzzy
+msgid "Top Header Menu Colors"
+msgstr "Цвета Меню Верхнего Колонтитула"
+
+#: wpv_theme/options/advanced/style.php:374
+#, fuzzy
+msgid "text"
+msgstr "Текст"
+
+#: wpv_theme/options/advanced/style.php:375
+#, fuzzy
+msgid "links"
+msgstr "Ссылки"
+
+#: wpv_theme/options/advanced/style.php:376
+#: wpv_theme/options/advanced/style.php:405
+#: wpv_theme/options/advanced/style.php:427
+#: wpv_theme/options/advanced/style.php:442
+#: wpv_theme/options/advanced/style.php:510
+#: wpv_theme/options/advanced/style.php:597
+#, fuzzy
+msgid "hover"
+msgstr "Цвет ссылки при наведении курсора"
+
+#: wpv_theme/options/advanced/style.php:377
+#, fuzzy
+msgid "active"
+msgstr "Активный цвет вкладок"
+
+#: wpv_theme/options/advanced/style.php:382
+#, fuzzy
+msgid "Site title"
+msgstr "Заглавие сайта"
+
+#: wpv_theme/options/advanced/style.php:396
+#: wpv_theme/options/advanced/style.php:501
+#: wpv_theme/options/advanced/style.php:588
+#, fuzzy
+msgid "Links"
+msgstr "Ссылки"
+
+#: wpv_theme/options/advanced/style.php:403
+#: wpv_theme/options/advanced/style.php:440
+#: wpv_theme/options/advanced/style.php:508
+#: wpv_theme/options/advanced/style.php:595
+msgid "normal"
+msgstr ""
+
+#: wpv_theme/options/advanced/style.php:404
+#: wpv_theme/options/advanced/style.php:509
+#: wpv_theme/options/advanced/style.php:596
+#, fuzzy
+msgid "visited"
+msgstr "Цвет посещенных ссылок"
+
+#: wpv_theme/options/advanced/style.php:410
+#, fuzzy
+msgid "Menu"
+msgstr "Меню"
+
+#: wpv_theme/options/advanced/style.php:428
+#: wpv_theme/options/advanced/style.php:443
+#, fuzzy
+msgid "hover background"
+msgstr "Цвет фона меню при наведенном курсоре"
+
+#: wpv_theme/options/advanced/style.php:434
+#, fuzzy
+msgid "Submenu"
+msgstr "Цвет текста подменю"
+
+#: wpv_theme/options/advanced/style.php:441
+#, fuzzy
+msgid "background"
+msgstr "Фон"
+
+#: wpv_theme/options/advanced/style.php:454
+#, fuzzy
+msgid "Body"
+msgstr "Основная часть"
+
+#: wpv_theme/options/advanced/style.php:465
+#, fuzzy
+msgid "Body background"
+msgstr "Фон основной части"
+
+#: wpv_theme/options/advanced/style.php:471
+#, fuzzy
+msgid "Body background opacity"
+msgstr "Вместимость фона основной части"
+
+#: wpv_theme/options/advanced/style.php:480
+#, fuzzy
+msgid "Page title background"
+msgstr "Фон заглавия переключателя"
+
+#: wpv_theme/options/advanced/style.php:486
+#: wpv_common/shortcodes/generator/typography.php:3
+#, fuzzy
+msgid "Typography"
+msgstr "Типография"
+
+#: wpv_theme/options/advanced/style.php:491
+#, fuzzy
+msgid "Body font"
+msgstr "Основной шрифт"
+
+#: wpv_theme/options/advanced/style.php:521
+#, fuzzy
+msgid "Footer"
+msgstr "Нижний колонтитул"
+
+#: wpv_theme/options/advanced/style.php:527
+#, fuzzy
+msgid "Widget areas backgrounds"
+msgstr "Фоны графических фрагментов"
+
+#: wpv_theme/options/advanced/style.php:532
+#, fuzzy
+msgid "Widget areas background"
+msgstr " Фон графических фрагментов "
+
+#: wpv_theme/options/advanced/style.php:538
+#, fuzzy
+msgid "Background opacity"
+msgstr "Вместимость фона"
+
+#: wpv_theme/options/advanced/style.php:547
+#, fuzzy
+msgid "Sub-footer backgrounds"
+msgstr "Фоны под-нижнего колонтитула"
+
+#: wpv_theme/options/advanced/style.php:553
+#: wpv_common/shortcodes/generator/text_divider.php:7
+#: wpv_common/shortcodes/generator/typography.php:26
+#: wpv_common/shortcodes/generator/typography.php:45
+#: wpv_common/shortcodes/generator/typography.php:213
+#: wpv_common/shortcodes/generator/button.php:7
+#: wpv_common/shortcodes/generator/slogan.php:7
+#: wpv_common/shortcodes/generator/outer_text_divider.php:7
+#, fuzzy
+msgid "Text"
+msgstr "Текст"
+
+#: wpv_theme/options/advanced/style.php:558
+#, fuzzy
+msgid "Widget areas"
+msgstr "Поля графических фрагментов"
+
+#: wpv_theme/options/advanced/style.php:568
+#, fuzzy
+msgid "Widget areas titles"
+msgstr "Заглавия полей графических фрагментов"
+
+#: wpv_theme/options/advanced/style.php:578
+#, fuzzy
+msgid "Sub-footer"
+msgstr "Под-нижний колонтитул"
+
+#: wpv_theme/options/advanced/style.php:608
+#: wpv_common/shortcodes/generator/sitemap.php:18
+#: wpv_common/shortcodes/generator/sitemap.php:102
+#: wpv_common/shortcodes/sitemap.php:152
+#, fuzzy
+msgid "Posts"
+msgstr "Посты"
+
+#: wpv_theme/options/advanced/style.php:614
+#, fuzzy
+msgid "\"Full image\" dimensions"
+msgstr "\"Полное изображение\"размеры"
+
+#: wpv_theme/options/advanced/style.php:619
+#, fuzzy
+msgid "Post \"full image\" height"
+msgstr "Пост \"полное изображение\"высота"
+
+#: wpv_theme/options/advanced/style.php:620
+#, fuzzy
+msgid "This option has an effect for portfolio media objects (images, video) besides posts"
+msgstr "Эта опция содержит эффекты для медиа объектов портфолио (изображений, видеокроме постов"
+
+#: wpv_theme/options/advanced/style.php:627
+#, fuzzy
+msgid "Meta"
+msgstr "Мета"
+
+#: wpv_theme/options/advanced/style.php:631
+#, fuzzy
+msgid "Hide post author"
+msgstr "Скрыть автора поста"
+
+#: wpv_theme/options/advanced/style.php:636
+#, fuzzy
+msgid "Show categories and tags"
+msgstr "Показать категории и вкладки"
+
+#: wpv_theme/options/advanced/style.php:641
+#, fuzzy
+msgid "Show post timestamp"
+msgstr "Показать отметку времени поста"
+
+#: wpv_theme/options/advanced/style.php:646
+#, fuzzy
+msgid "Show comment count"
+msgstr "Показать счетчик комментариев"
+
+#: wpv_theme/options/advanced/config_management.php:5
+#, fuzzy
+msgid "Save/Import Skin"
+msgstr "Сохранить/Импорт Скина"
+
+#: wpv_theme/options/advanced/config_management.php:10
+#, fuzzy
+msgid "Last active skin: %s"
+msgstr "Последний активный скин: %s"
+
+#: wpv_theme/options/advanced/config_management.php:15
+#, fuzzy
+msgid "Save current skin"
+msgstr "Сохранить текущий скин"
+
+#: wpv_theme/options/advanced/config_management.php:16
+#, fuzzy
+msgid "If you use the same name as a previously saved skin it will overwrite the latter."
+msgstr "Если вы используете то же имя, которое имеет предыдущий сохраненный скин, то онзамен предыдущий при записи"
+
+#: wpv_theme/options/advanced/config_management.php:21
+#, fuzzy
+msgid "Import saved skin"
+msgstr "Импорт сохраненного скина"
+
+#: wpv_theme/options/advanced/config_management.php:22
+#, fuzzy
+msgid "If you have made changes on the active skin, please save it before activating another skin. Otherwise you will lose these changes."
+msgstr "Если вы произвели изменения в активном скине, пожалуйста сохраните его передактивацией другого скина. Иначе, вы потеряете эти изменения. "
+
+#: wpv_theme/options/advanced/general.php:5
+#, fuzzy
+msgid "General Settings"
+msgstr "Общий настройки"
+
+#: wpv_theme/options/advanced/general.php:10
+#, fuzzy
+msgid "Custom logo picture"
+msgstr "Картинка пользовательского лого"
+
+#: wpv_theme/options/advanced/general.php:34
+#, fuzzy
+msgid "Favicon"
+msgstr "Иконка"
+
+#: wpv_theme/options/advanced/general.php:35
+#, fuzzy
+msgid ""
+"Upload your custom \"favicon\" which is visible in browser favorites and tabs.\n"
+"(Must be .png or .ico file - preferably 16px by 16px ). Leave blank if none required"
+msgstr ""
+"Загрузите свою пользовательскую \"иконку\" которая будет видна в закладках браузера ивкладках.\n"
+"(Это должен быть файл .png или .ico – желаетльно 16px на 16px). Если не требуется оставить пустым"
+
+#: wpv_theme/options/advanced/general.php:43
+#, fuzzy
+msgid "Google Maps API Key"
+msgstr "Google карты API ключ"
+
+#: wpv_theme/options/advanced/general.php:44
+msgid "Paste your Google Maps API Key here. If you don't have one, please sign up for a <a href='https://developers.google.com/maps/documentation/javascript/tutorial#api_key'>Google Maps API key</a>."
+msgstr ""
+
+#: wpv_theme/options/advanced/general.php:52
+#, fuzzy
+msgid "Google Analytics Key"
+msgstr " Google Аналитика Ключ"
+
+#: wpv_theme/options/advanced/general.php:53
+#, fuzzy
+msgid "Paste your key here. It should be something like UA-XXXXX-X. We're using the faster asynchronous loader, so you don't need to worry about speed :)"
+msgstr "Вставьте свой ключ тут. Он выглядит так UA-XXXXX-X.  Мы используембыстрый асинхронный загрузчик, так что не волнуйтесь о скорости :) "
+
+#: wpv_theme/options/advanced/general.php:60
+#, fuzzy
+msgid "Custom javascript (in footer)"
+msgstr "Пользовательский javascript (в нижнем колонтитуле)"
+
+#: wpv_theme/options/advanced/general.php:68
+#, fuzzy
+msgid "Put your css modifications here"
+msgstr "Вставьте свои модификации тут"
+
+#: wpv_theme/options/advanced/general.php:75
+#, fuzzy
+msgid "\"View all posts\" link"
+msgstr "Посмотреть все % форматы постов "
+
+#: wpv_theme/options/advanced/general.php:82
+#, fuzzy
+msgid "\"View all portfolios\" link"
+msgstr "Посмотреть все % форматы постов "
+
+#: wpv_theme/options/advanced/general.php:154
+#, fuzzy
+msgid "Share icons"
+msgstr "Поделиться иконками"
+
+#: wpv_theme/options/advanced/general.php:155
+#, fuzzy
+msgid "Select the social medias you want enabled and for which parts of the website"
+msgstr "Выберите социальные медиа, которые вы хотите активировать в каких частях сайта"
+
+#: wpv_theme/options/advanced/import.php:5
+#, fuzzy
+msgid "Quick import"
+msgstr "Быстрый импорт"
+
+#: wpv_theme/options/advanced/import.php:9
+#, fuzzy
+msgid "Content import"
+msgstr "Импорт содержания"
+
+#: wpv_theme/options/advanced/import.php:10
+#, fuzzy
+msgid "You are advised to use this importer only on new WordPress sites, as in doing so you will end up with quite a lot of example posts, pages, slides and portfolio items."
+msgstr "Вам рекомендуется использовать этот импортер только на новых сайтах Wordpress,так как тогда у вас получится много примерных пос тов, страниц, слайдов и элементов портфолио."
+
+#: wpv_theme/options/advanced/import.php:11
+#, fuzzy
+msgid "Import dummy content"
+msgstr "Импорт модельного содержания"
+
+#: wpv_theme/options/advanced/import.php:17
+#, fuzzy
+msgid "Widget import"
+msgstr "Импорт графических фрагментов"
+
+#: wpv_theme/options/advanced/import.php:18
+#, fuzzy
+msgid "Using this importer will overwrite your current sidebar settings"
+msgstr "Используя этот импортер  ваши текущие настройки бокового блока будут заменены"
+
+#: wpv_theme/options/advanced/import.php:19
+#, fuzzy
+msgid "Import widgets"
+msgstr "Импорт графических фрагментов"
+
+#: wpv_theme/options/advanced/sliders.php:6
+#, fuzzy
+msgid "Header Slider"
+msgstr "Слайдер Верхнего Колонтитула"
+
+#: wpv_theme/options/advanced/sliders.php:33
+#: wpv_common/shortcodes/generator/sequence.php:52
+#: wpv_common/shortcodes/generator/showcase.php:70
+#: wpv_common/shortcodes/generator/slider.php:70
+#, fuzzy
+msgid "Pause time"
+msgstr "Время паузы"
+
+#: wpv_theme/options/advanced/sliders.php:40
+#: wpv_common/shortcodes/generator/showcase.php:78
+#: wpv_common/shortcodes/generator/slider.php:78
+#, fuzzy
+msgid "Pause on hover"
+msgstr "Остановить при наведении курсора"
+
+#: wpv_theme/options/advanced/sliders.php:45
+#, fuzzy
+msgid "Animation time"
+msgstr "Время анимации"
+
+#: wpv_theme/options/advanced/sliders.php:63
+#, fuzzy
+msgid "Easing"
+msgstr "Медленное появление"
+
+#: wpv_theme/options/advanced/sliders.php:64
+#, fuzzy
+msgid "Animation easings are most visible with sliding type effects"
+msgstr "Медленное появление анимаций больше всего заметно с эффектами скольжения"
+
+#: wpv_theme/options/advanced/sliders.php:82
+#, fuzzy
+msgid "Grid options"
+msgstr "Настройки сетки"
+
+#: wpv_theme/options/advanced/sliders.php:87
+#, fuzzy
+msgid "For optimum performance, please mind that rows*cols should not exceed 50"
+msgstr "Для оптимальной работы, пожалуйста, помните, что ряды*и столбцы не должныпревышать 50"
+
+#: wpv_theme/options/advanced/sliders.php:93
+#, fuzzy
+msgid "Visible grid"
+msgstr "Заметная сетки"
+
+#: wpv_theme/options/advanced/sliders.php:99
+#, fuzzy
+msgid "Grid color"
+msgstr "Цвет сетки"
+
+#: wpv_theme/options/advanced/sliders.php:105
+#, fuzzy
+msgid "Grid rows"
+msgstr "Ряды сетки"
+
+#: wpv_theme/options/advanced/sliders.php:112
+#, fuzzy
+msgid "Grid cols"
+msgstr "Столбцы сетки"
+
+#: wpv_theme/options/advanced/sliders.php:120
+#, fuzzy
+msgid "Wave type"
+msgstr "Тип волны"
+
+#: wpv_theme/shortcode_templates/portfolio.php:8
+#, fuzzy
+msgid "Show:"
+msgstr "Показать:"
+
+#: wpv_theme/shortcode_templates/portfolio.php:10
+#: wpv_common/shortcodes/generator/sitemap.php:8
+#, fuzzy
+msgid "All"
+msgstr "Все"
+
+#: wpv_theme/shortcode_templates/team_member.php:32
+#, fuzzy
+msgid "email %s"
+msgstr "email %s "
+
+#: wpv_theme/metaboxes/general.php:12
+#, fuzzy
+msgid "Use global options"
+msgstr "Использовать общие настройки"
+
+#: wpv_theme/metaboxes/general.php:13
+#, fuzzy
+msgid "If this option is enabled, some of the local options which have global equivalents will not be taken into account. Hence, if this option is disabled, these local options will overwrite the global settings for this post"
+msgstr "Если эта опция активирована, некоторые локальные опции с общимиэквивалентами не будут учтены. То есть, если эта опция будетдеактивирована, эти локальные опции заменят общие настройки этого поста"
+
+#: wpv_theme/metaboxes/general.php:20
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:23
+#: wpv_common/shortcodes/generator/price.php:37
+#: wpv_common/shortcodes/generator/team_member.php:19
+#: wpv_common/shortcodes/generator/services.php:27
+#, fuzzy
+msgid "Description"
+msgstr "Описание"
+
+#: wpv_theme/metaboxes/general.php:28
+#, fuzzy
+msgid "Layout and styles"
+msgstr "Вид и стиль"
+
+#: wpv_theme/metaboxes/general.php:40
+#, fuzzy
+msgid "Left sidebar"
+msgstr "Левый боковой блок"
+
+#: wpv_theme/metaboxes/general.php:43
+#: wpv_theme/metaboxes/general.php:51
+#: wpv_common/shortcodes/generator/tabs.php:21
+#, fuzzy
+msgid "Default"
+msgstr "По умолчанию"
+
+#: wpv_theme/metaboxes/general.php:48
+#, fuzzy
+msgid "Right sidebar"
+msgstr "Правый боковой блок"
+
+#: wpv_theme/metaboxes/general.php:57
+msgid "Show body top widget areas"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:58
+#, fuzzy
+msgid "These can be configured from \"Vamtam\" -> \"Theme options\" -> \"Header\""
+msgstr "Это может быть настроено из \"Vamtam\" -> \"Настройки тем\" -> \"Верхний колонтитул\""
+
+#: wpv_theme/metaboxes/general.php:66
+#, fuzzy
+msgid "Show page title header"
+msgstr "Показать заглавие верхнего колонтитула страницы "
+
+#: wpv_theme/metaboxes/general.php:73
+#, fuzzy
+msgid "Custom background"
+msgstr "Пользовательский фон"
+
+#: wpv_theme/metaboxes/general.php:79
+#: wpv_common/shortcodes/generator/price.php:82
+#, fuzzy
+msgid "Title background"
+msgstr "Фон заглавия"
+
+#: wpv_theme/metaboxes/general.php:85
+#, fuzzy
+msgid "Background portfolio"
+msgstr "Редактировать Портфолио"
+
+#: wpv_theme/metaboxes/general.php:90
+#: wpv_common/admin/types/portfolio.php:11
+#: wpv_common/admin/types/slideshow.php:11
+#: wpv_common/shortcodes/generator/sitemap.php:17
+#: wpv_common/shortcodes/generator/sitemap.php:62
+#: wpv_common/shortcodes/sitemap.php:151
+#, fuzzy
+msgid "Categories"
+msgstr "Категории"
+
+#: wpv_theme/metaboxes/general.php:91
+msgid "If you select any of these categories, then the page content will be hidden and a portfolio slider will be displayed as a page background"
+msgstr ""
+
+#: wpv_theme/metaboxes/general.php:100
+#: wpv_theme/metaboxes/general.php:105
+#, fuzzy
+msgid "Slider"
+msgstr "Слайдер"
+
+#: wpv_theme/metaboxes/general.php:114
+#, fuzzy
+msgid "Show slider in header"
+msgstr "Показать слайдер в верхнем колонтитуле"
+
+#: wpv_theme/metaboxes/general.php:128
+#, fuzzy
+msgid "Post format settings"
+msgstr "Настройки после форматирования"
+
+#: wpv_theme/metaboxes/general.php:135
+#, fuzzy
+msgid "Used in the \"quote\", \"link\", \"audio\" and \"video\" formats"
+msgstr "Использован в \"цитата\", \"ссылка\", \"аудио\" и \"видео\" форматах"
+
+#: wpv_theme/metaboxes/general.php:143
+#, fuzzy
+msgid "Quote author"
+msgstr "Автор цитаты"
+
+#: wpv_theme/metaboxes/general.php:144
+#, fuzzy
+msgid "Used in the \"quote\" format"
+msgstr "Использован в формате \"цитата\""
+
+#: wpv_theme/metaboxes/general.php:152
+#: wpv_common/admin/helpers/config_generator/social.php:9
+#: wpv_common/shortcodes/generator/portfolio.php:3
+#, fuzzy
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: wpv_theme/metaboxes/general.php:158
+#, fuzzy
+msgid "Portfolio data type"
+msgstr "Тип данных портфолио"
+
+#: wpv_theme/metaboxes/general.php:159
+#, fuzzy
+msgid ""
+"Image - uses the featured image (default)<br />\n"
+"\t\t\t\t  Gallery - use the featured image as a title image, but add more image via the form below \n"
+"\t\t\t\t  Video/Link - uses the \"portfolio data url\" setting<br />\n"
+"\t\t\t\t  Document - acts like a normal post\n"
+"\t\t\t\t"
+msgstr ""
+"Изображение – использование  форматированного изображения (по умолчанию)<br />\n"
+" \t\t\t\t  Галерея – использование форматированного изображения как главное, добавить ещеизображения через форму ниже \n"
+"\t\t\t\t Видео /Ссылка – использование \"данные портфолио url\"настройки <br />\n"
+"\t\t\t\t Документ – качества обычного поста \n"
+"\t\t\t\t"
+
+#: wpv_theme/metaboxes/general.php:177
+#, fuzzy
+msgid "Portfolio data url"
+msgstr "Данные портфолио url"
+
+#: wpv_theme/metaboxes/general.php:184
+#, fuzzy
+msgid "Portfolio video width"
+msgstr "Ширина видео портфолио"
+
+#: wpv_theme/metaboxes/general.php:185
+#: wpv_theme/metaboxes/general.php:195
+#, fuzzy
+msgid "Only applicable if the Portfolio data type is \"Video\""
+msgstr "Доступно только если тип данных Портфолио это \"Видео\""
+
+#: wpv_theme/metaboxes/general.php:194
+#, fuzzy
+msgid "Portfolio video height"
+msgstr "Высота видео портфолио"
+
+#: wpv_theme/metaboxes/general.php:204
+#, fuzzy
+msgid "Portfolio link target"
+msgstr "Объект ссылки портфолио"
+
+#: wpv_theme/metaboxes/general.php:205
+#, fuzzy
+msgid "Only applicable if the Portfolio data type is \"Link\""
+msgstr "Прменимо только если тип данных Портфолио это \"Ссылка\""
+
+#: wpv_theme/metaboxes/slideshow.php:8
+#, fuzzy
+msgid "Captions"
+msgstr "Заголовок"
+
+#: wpv_theme/metaboxes/slideshow.php:13
+#, fuzzy
+msgid "Slide content"
+msgstr "Содержание слайда"
+
+#: wpv_theme/metaboxes/slideshow.php:13
+#, fuzzy
+msgid "First caption"
+msgstr "Первый заголовок"
+
+#: wpv_theme/metaboxes/slideshow.php:21
+#, fuzzy
+msgid "Second caption"
+msgstr "Второй заголовок"
+
+#: wpv_theme/metaboxes/slideshow.php:28
+#, fuzzy
+msgid "Third caption"
+msgstr "Третий заголовок"
+
+#: wpv_theme/helpers/shortcode-support.php:55
+#: wpv_common/shortcodes/generator/services_expandable.php:29
+msgid "Transparent"
+msgstr ""
+
+#: wpv_theme/helpers/shortcode-support.php:56
+#: wpv_common/shortcodes/generator/services_expandable.php:30
+#, fuzzy
+msgid "Accent 1"
+msgstr " Основной цвет "
+
+#: wpv_theme/helpers/shortcode-support.php:57
+#: wpv_common/shortcodes/generator/services_expandable.php:31
+#, fuzzy
+msgid "Accent 2"
+msgstr " Основной цвет "
+
+#: wpv_theme/helpers/shortcode-support.php:58
+#: wpv_common/shortcodes/generator/services_expandable.php:32
+#, fuzzy
+msgid "Accent 3"
+msgstr " Основной цвет "
+
+#: wpv_theme/helpers/shortcode-support.php:59
+#: wpv_common/shortcodes/generator/services_expandable.php:33
+#, fuzzy
+msgid "Accent 4"
+msgstr " Основной цвет "
+
+#: wpv_theme/helpers/shortcode-support.php:70
+#, fuzzy
+msgid "Show counter"
+msgstr "Показать Счетчик"
+
+#: wpv_theme/helpers/shortcode-support.php:81
+#, fuzzy
+msgid "More info link"
+msgstr "Ссылка на кнопку для отзыва"
+
+#: wpv_theme/helpers/base.php:45
+#, fuzzy
+msgid "Gallery"
+msgstr "Галерея"
+
+#: wpv_theme/helpers/base.php:46
+#: wpv_common/shortcodes/generator/showcase.php:16
+#, fuzzy
+msgid "Showcase"
+msgstr "Демонстрация"
+
+#: wpv_theme/helpers/base.php:55
+#, fuzzy
+msgid "Grid"
+msgstr "Настройки сетки"
+
+#: wpv_theme/helpers/base.php:56
+#, fuzzy
+msgid "Slide and fade"
+msgstr "Вид и стиль"
+
+#: wpv_theme/helpers/base.php:57
+msgid "Apple"
+msgstr ""
+
+#: wpv_theme/helpers/base.php:162
+#, fuzzy
+msgid "by %s"
+msgstr "на %s "
+
+#: wpv_theme/helpers/base.php:167
+#, fuzzy
+msgid "Reply"
+msgstr "Ответ"
+
+#: wpv_theme/helpers/base.php:168
+#, fuzzy
+msgid "Log in to reply."
+msgstr "Войдите чтобы ответить"
+
+#: wpv_theme/helpers/base.php:176
+#, fuzzy
+msgid "\t\t\t\t\t<span class='unapproved'>Your comment is awaiting moderation.</span>\n"
+msgstr "\t\t\t\t\t<span class='unapproved'>Ваш комментарий ожидает редактирования. </span>\n"
+
+#: wpv_common/plugins/importer/parsers.php:110
+#, fuzzy
+msgid "This does not appear to be a WXR file, missing/invalid WXR version number"
+msgstr "Это не WXR файл, отсутствует/неправильный номер версии WXR"
+
+#: wpv_common/plugins/importer/importer.php:146
+#: wpv_common/plugins/importer/importer.php:155
+#: wpv_common/plugins/importer/importer.php:240
+#: wpv_common/plugins/importer/importer.php:248
+#: wpv_common/plugins/widget-importer/importer.php:94
+#, fuzzy
+msgid "Sorry, there has been an error."
+msgstr "Извините, произошла ошибка"
+
+#: wpv_common/plugins/importer/importer.php:147
+#: wpv_common/plugins/widget-importer/importer.php:95
+#, fuzzy
+msgid "The file does not exist, please try again."
+msgstr "Файл не существует, пожалуйста, попытайтесь снова"
+
+#: wpv_common/plugins/importer/importer.php:195
+#: wpv_common/plugins/widget-importer/importer.php:107
+#, fuzzy
+msgid "All done."
+msgstr "Все готово."
+
+#: wpv_common/plugins/importer/importer.php:195
+#: wpv_common/plugins/widget-importer/importer.php:107
+#, fuzzy
+msgid "Have fun!"
+msgstr "Наслаждайтесь!"
+
+#: wpv_common/plugins/importer/importer.php:196
+#, fuzzy
+msgid "Remember to update the passwords and roles of imported users."
+msgstr "Помните, что необходимо обновить пароль и роль импортированных пользователей"
+
+#: wpv_common/plugins/importer/importer.php:256
+#, fuzzy
+msgid "This WXR file (version %s) may not be supported by this version of the importer. Please consider updating."
+msgstr "Этот WXR файл (версия %s) не поддерживается этой версиейимпортера. Пожалуйста, сделайте обновление. "
+
+#: wpv_common/plugins/importer/importer.php:281
+#, fuzzy
+msgid "Failed to import author %s. Their posts will be attributed to the current user."
+msgstr "Произошла ошибка при попытке импорта автора%s . Этот пост будет приписан текущемупользователю."
+
+#: wpv_common/plugins/importer/importer.php:307
+#, fuzzy
+msgid "Assign Authors"
+msgstr "Нззначить Авторов"
+
+#: wpv_common/plugins/importer/importer.php:308
+#, fuzzy
+msgid "To make it easier for you to edit and save the imported content, you may want to reassign the author of the imported item to an existing user of this site. For example, you may want to import all the entries as <code>admin</code>s entries."
+msgstr "Для того, чтобы упростить редактирование и сохранение импорта содержания для васможно переназначить авторов импортированного элемента текущему пользователю этогосайта. Например, вы можете импортировать все с кодом <code>admin</ code>s "
+
+#: wpv_common/plugins/importer/importer.php:310
+#, fuzzy
+msgid "If a new user is created by WordPress, a new password will be randomly generated and the new user&#8217;s role will be set as %s. Manually changing the new user&#8217;s details will be necessary."
+msgstr "Если новый пользователь создан с помощью Wordpress, то новый пароль будетсгенерирован случайно, и роль нового пользователя будет выставлена на %s. Потребуетсявручную изменить информацию о новом пользователе. "
+
+#: wpv_common/plugins/importer/importer.php:320
+#, fuzzy
+msgid "Import Attachments"
+msgstr "Импорт Вкладок"
+
+#: wpv_common/plugins/importer/importer.php:323
+#, fuzzy
+msgid "Download and import file attachments"
+msgstr "Скачать и импортировать вкладки файла"
+
+#: wpv_common/plugins/importer/importer.php:327
+#: wpv_common/shortcodes/widgets.php:21
+#: wpv_common/widgets/tpl/contactform-widget.php:29
+#, fuzzy
+msgid "Submit"
+msgstr "Утвердить"
+
+#: wpv_common/plugins/importer/importer.php:340
+#, fuzzy
+msgid "Import author:"
+msgstr "Импорт автора:"
+
+#: wpv_common/plugins/importer/importer.php:351
+#, fuzzy
+msgid "or create new user with login name:"
+msgstr "или создайте нового пользователя с логином"
+
+#: wpv_common/plugins/importer/importer.php:354
+#, fuzzy
+msgid "as a new user:"
+msgstr "как нового пользователя"
+
+#: wpv_common/plugins/importer/importer.php:362
+#, fuzzy
+msgid "assign posts to an existing user:"
+msgstr "назначайте посты существующим пользователям"
+
+#: wpv_common/plugins/importer/importer.php:364
+#, fuzzy
+msgid "or assign posts to an existing user:"
+msgstr "или назначайте посты существующему пользователю:"
+
+#: wpv_common/plugins/importer/importer.php:365
+#, fuzzy
+msgid "- Select -"
+msgstr "-Выбрать-"
+
+#: wpv_common/plugins/importer/importer.php:413
+#, fuzzy
+msgid "Failed to create new user for %s. Their posts will be attributed to the current user."
+msgstr "Невозможно создать нового пользователя для %s . Их посты будут назначены текущему пользователю."
+
+#: wpv_common/plugins/importer/importer.php:462
+#, fuzzy
+msgid "Failed to import category %s"
+msgstr "Невозможно импортировать категории %s "
+
+#: wpv_common/plugins/importer/importer.php:500
+#, fuzzy
+msgid "Failed to import post tag %s"
+msgstr "Невозможно импортировать теги %s "
+
+#: wpv_common/plugins/importer/importer.php:544
+#: wpv_common/plugins/importer/importer.php:670
+#, fuzzy
+msgid "Failed to import %s %s"
+msgstr "Невозможно импортировать %s  %s"
+
+#: wpv_common/plugins/importer/importer.php:566
+#, fuzzy
+msgid "Failed to import &#8220;%s&#8221;: Invalid post type %s"
+msgstr "Невозможно импортировать &#8220;%s&#8221;: Неправильный тип постов %s "
+
+#: wpv_common/plugins/importer/importer.php:587
+#, fuzzy
+msgid "%s &#8220;%s&#8221; already exists."
+msgstr "%s &#8220;%s&#8221; уже существует."
+
+#: wpv_common/plugins/importer/importer.php:642
+#, fuzzy
+msgid "Failed to import %s &#8220;%s&#8221;"
+msgstr "Невозможно импортировать %s &#8220;%s&#8221;"
+
+#: wpv_common/plugins/importer/importer.php:781
+#, fuzzy
+msgid "Menu item skipped due to missing menu slug"
+msgstr "Элемент меню пропущен в виду отсутствия меню заготовки"
+
+#: wpv_common/plugins/importer/importer.php:788
+#, fuzzy
+msgid "Menu item skipped due to invalid menu slug: %s"
+msgstr " Элемент меню пропущен в виду некорректности меню заготовки: %s "
+
+#: wpv_common/plugins/importer/importer.php:851
+#, fuzzy
+msgid "Fetching attachments is not enabled"
+msgstr "Выборка вложений не активирована"
+
+#: wpv_common/plugins/importer/importer.php:864
+#, fuzzy
+msgid "Invalid file type"
+msgstr "Некорректный тип файла"
+
+#: wpv_common/plugins/importer/importer.php:908
+#, fuzzy
+msgid "Remote server did not respond"
+msgstr "Удаленный сервер не ответил"
+
+#: wpv_common/plugins/importer/importer.php:914
+#, fuzzy
+msgid "Remote server returned error response %1$d %2$s"
+msgstr "Удаленный сервер ответил с ошибкой %1$d %2$s "
+
+#: wpv_common/plugins/importer/importer.php:921
+#, fuzzy
+msgid "Remote file is incorrect size"
+msgstr "Удаленный файл имеет некорректный размер"
+
+#: wpv_common/plugins/importer/importer.php:926
+#, fuzzy
+msgid "Zero size file downloaded"
+msgstr "Файл скачан с нулевым размером"
+
+#: wpv_common/plugins/importer/importer.php:932
+#, fuzzy
+msgid "Remote file is too large, limit is %s"
+msgstr "Удаленный файл слишком большой, предел размера  - %s "
+
+#: wpv_common/plugins/importer/importer.php:1031
+#, fuzzy
+msgid "Import WordPress"
+msgstr "Импорт WordPress"
+
+#: wpv_common/plugins/importer/importer.php:1038
+#, fuzzy
+msgid "A new version of this importer is available. Please update to version %s to ensure compatibility with newer export files."
+msgstr "Доступна новая версия этого импортера. Пожалуйста, обновите версию %s длясовместимости с новыми файлами экспорта"
+
+#: wpv_common/plugins/importer/importer.php:1053
+#, fuzzy
+msgid "Howdy! Upload your WordPress eXtended RSS (WXR) file and we&#8217;ll import the posts, pages, comments, custom fields, categories, and tags into this site."
+msgstr "Здравствуй! Загрузи свой Wordpress eXtended RSS (WXR) файл и мы импортируемваши посты, страницы, комментарии, пользовательские поля, категории и теги в этот сайт"
+
+#: wpv_common/plugins/importer/importer.php:1054
+#, fuzzy
+msgid "Choose a WXR file to upload, then click Upload file and import."
+msgstr "Выберите WXR файл для загрузки и нажмите Загрузить файл для импорта"
+
+#: wpv_common/plugins/importer/importer.php:1126
+#, fuzzy
+msgid "Import <strong>posts, pages, comments, custom fields, categories, tags and sidebars</strong> from a %s dummy content file."
+msgstr "Импортируйте <strong>посты, страницы, комментарии, пользовательские поля, категории,теги и боковые блоки</strong>  из %s файла с макетом содержания."
+
+#: wpv_common/plugins/widget-importer/importer.php:126
+#, fuzzy
+msgid "Import Vamtam Widgets"
+msgstr "Импорт графических фрагментов Vamtam "
+
+#: wpv_common/plugins/widget-importer/importer.php:147
+#, fuzzy
+msgid "Import widgets from Vamtam themes, not to be used as a stand-alone product."
+msgstr "Импорт графических фрагментов из тем Vamtam, не используется как отдельный продукт"
+
+#: wpv_common/admin/options/advanced.php:4
+#: wpv_common/admin/options/advanced.php:8
+#: wpv_common/admin/wpv_admin.php:25
+#, fuzzy
+msgid "Vamtam | advanced options"
+msgstr "Vamtam | дополнительные настройки"
+
+#: wpv_common/admin/options/help.php:3
+#: wpv_common/admin/options/help.php:8
+#: wpv_common/admin/wpv_admin.php:26
+#: wpv_common/wpv_framework.php:370
+#, fuzzy
+msgid "Help"
+msgstr "Помощь"
+
+#: wpv_common/admin/options/quick_setup.php:4
+#: wpv_common/admin/options/quick_setup.php:8
+#: wpv_common/admin/wpv_admin.php:24
+#, fuzzy
+msgid "Vamtam | quick setup"
+msgstr "Vamtam | быстрая установка"
+
+#: wpv_common/admin/metaboxes/template.php:5
+#, fuzzy
+msgid "Vamtam templates"
+msgstr "Vamtam шаблоны "
+
+#: wpv_common/admin/metaboxes/general.php:5
+#, fuzzy
+msgid "Vamtam options"
+msgstr " Vamtam настройки "
+
+#: wpv_common/admin/types/portfolio.php:10
+#, fuzzy
+msgctxt "column name"
+msgid "Title"
+msgstr "Заглавие"
+
+#: wpv_common/admin/types/portfolio.php:12
+#: wpv_common/admin/types/slideshow.php:12
+#, fuzzy
+msgid "Author"
+msgstr "Автор"
+
+#: wpv_common/admin/types/portfolio.php:13
+#: wpv_common/admin/types/slideshow.php:13
+#, fuzzy
+msgid "Date"
+msgstr "Дата"
+
+#: wpv_common/admin/types/portfolio.php:14
+#: wpv_common/admin/types/slideshow.php:14
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:21
+#, fuzzy
+msgid "Thumbnail"
+msgstr "Уменьшенное изображение"
+
+#: wpv_common/admin/types/slideshow.php:10
+#, fuzzy
+msgctxt "column name"
+msgid "Excerpt"
+msgstr "Цитата"
+
+#: wpv_common/admin/types/slideshow.php:64
+#, fuzzy
+msgid "Auto draft"
+msgstr "Авто черновик"
+
+#: wpv_common/admin/wpv_admin.php:25
+#: wpv_common/wpv_framework.php:362
+#, fuzzy
+msgid "Advanced options"
+msgstr "Дополнительные настройки"
+
+#: wpv_common/admin/wpv_admin.php:26
+#, fuzzy
+msgid "Vamtam | help"
+msgstr " Vamtam | помощь"
+
+#: wpv_common/admin/ajax/get_shortcodes.php:6
+#, fuzzy
+msgid "Shortcodes"
+msgstr "Короткие коды"
+
+#: wpv_common/admin/ajax/base.php:54
+#: wpv_common/admin/ajax/base.php:67
+#: wpv_common/admin/ajax/base.php:153
+#, fuzzy
+msgid "Success."
+msgstr "Успешно."
+
+#: wpv_common/admin/ajax/base.php:56
+#: wpv_common/admin/ajax/base.php:155
+#, fuzzy
+msgid "Cannot save file."
+msgstr "Невозможно сохранить файл."
+
+#: wpv_common/admin/ajax/base.php:69
+#: wpv_common/admin/ajax/base.php:168
+#, fuzzy
+msgid "Cannot delete file."
+msgstr "Невозможно удалить файл."
+
+#: wpv_common/admin/ajax/base.php:82
+#: wpv_common/admin/helpers/config_generator/config-import.php:8
+#, fuzzy
+msgid "Available skins"
+msgstr "Доступные скины"
+
+#: wpv_common/admin/ajax/base.php:125
+#, fuzzy
+msgid "Available templates"
+msgstr "Доступные шаблоны"
+
+#: wpv_common/admin/ajax/base.php:166
+#, fuzzy
+msgid "Deleted."
+msgstr "Удалено."
+
+#: wpv_common/admin/ajax/base.php:185
+#, fuzzy
+msgid "Saved"
+msgstr "Сохранено"
+
+#: wpv_common/admin/ajax/base.php:276
+#, fuzzy
+msgid "Save changes"
+msgstr "Сохранить изменения"
+
+#: wpv_common/admin/assets/js/shortcodes_tinymce.js.php:33
+#, fuzzy
+msgid "Vamtam shortcodes"
+msgstr " Vamtam.com короткие коды"
+
+#: wpv_common/admin/helpers/config_generator/background.php:3
+#, fuzzy
+msgid "color"
+msgstr "цвет"
+
+#: wpv_common/admin/helpers/config_generator/background.php:4
+#, fuzzy
+msgid "image"
+msgstr "изображение"
+
+#: wpv_common/admin/helpers/config_generator/background.php:5
+#, fuzzy
+msgid "repeat"
+msgstr "повтор"
+
+#: wpv_common/admin/helpers/config_generator/background.php:6
+#, fuzzy
+msgid "attachment"
+msgstr "вложение"
+
+#: wpv_common/admin/helpers/config_generator/background.php:7
+#, fuzzy
+msgid "position"
+msgstr "позиция"
+
+#: wpv_common/admin/helpers/config_generator/background.php:31
+#, fuzzy
+msgid "No repeat"
+msgstr "Нет повтора"
+
+#: wpv_common/admin/helpers/config_generator/background.php:32
+#, fuzzy
+msgid "Repeat horizontally"
+msgstr "Повтор горизонтально"
+
+#: wpv_common/admin/helpers/config_generator/background.php:33
+#, fuzzy
+msgid "Repeat vertically"
+msgstr "Повтор вертикально"
+
+#: wpv_common/admin/helpers/config_generator/background.php:34
+#, fuzzy
+msgid "Repeat both"
+msgstr "Повторить оба"
+
+#: wpv_common/admin/helpers/config_generator/background.php:37
+#, fuzzy
+msgid "scroll"
+msgstr "прокрутить"
+
+#: wpv_common/admin/helpers/config_generator/background.php:38
+#, fuzzy
+msgid "fixed"
+msgstr "закреплено"
+
+#: wpv_common/admin/helpers/config_generator/background.php:41
+#, fuzzy
+msgid "left center"
+msgstr "слева в центре"
+
+#: wpv_common/admin/helpers/config_generator/background.php:42
+#, fuzzy
+msgid "left top"
+msgstr "слева вверху"
+
+#: wpv_common/admin/helpers/config_generator/background.php:43
+#, fuzzy
+msgid "left bottom"
+msgstr "слева внизу"
+
+#: wpv_common/admin/helpers/config_generator/background.php:44
+#, fuzzy
+msgid "center center"
+msgstr "в центре центра"
+
+#: wpv_common/admin/helpers/config_generator/background.php:45
+#, fuzzy
+msgid "center top"
+msgstr "в центре сверху"
+
+#: wpv_common/admin/helpers/config_generator/background.php:46
+#, fuzzy
+msgid "center bottom"
+msgstr "в центре снизу"
+
+#: wpv_common/admin/helpers/config_generator/background.php:47
+#, fuzzy
+msgid "right center"
+msgstr "в центре справа"
+
+#: wpv_common/admin/helpers/config_generator/background.php:48
+#, fuzzy
+msgid "right top"
+msgstr "справа сверху"
+
+#: wpv_common/admin/helpers/config_generator/background.php:49
+#, fuzzy
+msgid "right bottom"
+msgstr "справа снизу"
+
+#: wpv_common/admin/helpers/config_generator/templates.php:12
+#, fuzzy
+msgid "Save"
+msgstr "Сохранить"
+
+#: wpv_common/admin/helpers/config_generator/templates.php:13
+#, fuzzy
+msgid "If you use the same name as a previously saved template it will overwrite the latter."
+msgstr "Если вы используете то же имя, что и у предыдущего сохраненного шаблона,то он автоматически перепишется."
+
+#: wpv_common/admin/helpers/config_generator/templates.php:18
+#, fuzzy
+msgid "Loading..."
+msgstr "Загрузка..."
+
+#: wpv_common/admin/helpers/config_generator/templates.php:21
+#, fuzzy
+msgid "Load"
+msgstr "Загрузить"
+
+#: wpv_common/admin/helpers/config_generator/templates.php:22
+#: wpv_common/admin/helpers/config_generator/config-import.php:11
+#: wpv_common/admin/helpers/media-upload.php:23
+#: wpv_common/admin/helpers/gallery-upload.php:24
+#, fuzzy
+msgid "Delete"
+msgstr "Удалить"
+
+#: wpv_common/admin/helpers/config_generator/slide.php:15
+#, fuzzy
+msgid "Slide type"
+msgstr "Тип слайда"
+
+#: wpv_common/admin/helpers/config_generator/slide.php:17
+#: wpv_common/shortcodes/generator/blog.php:61
+#: wpv_common/shortcodes/generator/services_expandable.php:13
+#: wpv_common/shortcodes/generator/services.php:13
+#: wpv_common/shortcodes/generator/image.php:3
+#, fuzzy
+msgid "Image"
+msgstr "Изображение"
+
+#: wpv_common/admin/helpers/config_generator/slide.php:18
+#, fuzzy
+msgid "HTML"
+msgstr " HTML "
+
+#: wpv_common/admin/helpers/config_generator/save.php:4
+#: wpv_common/admin/helpers/config_generator/title.php:18
+#, fuzzy
+msgid "Delete options"
+msgstr " Удалить опции"
+
+#: wpv_common/admin/helpers/config_generator/save.php:4
+#: wpv_common/admin/helpers/config_generator/title.php:18
+#, fuzzy
+msgid "Save Changes"
+msgstr "Сохранить  изменения"
+
+#: wpv_common/admin/helpers/config_generator/separator.php:3
+#, fuzzy
+msgid "Click to toggle"
+msgstr "Кликните для переключения"
+
+#: wpv_common/admin/helpers/config_generator/social.php:7
+#, fuzzy
+msgid "Post"
+msgstr "Пост"
+
+#: wpv_common/admin/helpers/config_generator/social.php:8
+#: wpv_common/helpers/dimox-breadcrumbs.php:106
+#, fuzzy
+msgid "Page"
+msgstr "Страница"
+
+#: wpv_common/admin/helpers/config_generator/social.php:10
+#: wpv_common/shortcodes/generator/image.php:34
+#, fuzzy
+msgid "Lightbox"
+msgstr "Лайтбокс"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:18
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:17
+#, fuzzy
+msgid "Enabled"
+msgstr "Активировано"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:19
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:18
+#, fuzzy
+msgid "Disabled"
+msgstr "Деактивировано"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:41
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:35
+#, fuzzy
+msgid "Left body sidebar"
+msgstr "Левый боковой блок"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:50
+#, fuzzy
+msgid "Site width:"
+msgstr "Ширина сайта:"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:55
+#, fuzzy
+msgid "Body content width:"
+msgstr "Ширина основного содержимого:"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:62
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:49
+#, fuzzy
+msgid "Right body sidebar"
+msgstr "Правый боковой блок"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:71
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:58
+#, fuzzy
+msgid "Footer widget areas"
+msgstr "Поля графических фрагментов нижнего колонтитула"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:76
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:63
+#, fuzzy
+msgid "Subfooter"
+msgstr "Поднижний колонтитул"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:83
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:70
+#, fuzzy
+msgid "Header height:"
+msgstr "Высота верхнего колонтитула:"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:90
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:77
+#, fuzzy
+msgid "Slider height:"
+msgstr "Высота слайдера:"
+
+#: wpv_common/admin/helpers/config_generator/general-layout.php:97
+#: wpv_common/admin/helpers/config_generator/general-layout-responsive.php:84
+#, fuzzy
+msgid "Body top widget areas"
+msgstr "Активировать графический фрагмент верхнего колонтитула"
+
+#: wpv_common/admin/helpers/config_generator/sidebar_management.php:5
+#, fuzzy
+msgid "Current sidebars"
+msgstr "Текущие боковые блоки"
+
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:22
+#: wpv_common/shortcodes/generator/price.php:7
+#: wpv_common/shortcodes/generator/toggle.php:7
+#: wpv_common/shortcodes/generator/lightbox.php:20
+#: wpv_common/shortcodes/generator/services_expandable.php:7
+#: wpv_common/shortcodes/generator/services.php:7
+#, fuzzy
+msgid "Title"
+msgstr "Заглавие"
+
+#: wpv_common/admin/helpers/config_generator/portfolio_gallery.php:24
+#, fuzzy
+msgid "Actions"
+msgstr "Действия"
+
+#: wpv_common/admin/helpers/config_generator/upload-basic.php:5
+#: wpv_common/admin/helpers/media-upload.php:37
+#, fuzzy
+msgid "Insert"
+msgstr "Вставить"
+
+#: wpv_common/admin/helpers/config_generator/upload-basic.php:6
+#, fuzzy
+msgid "Remove"
+msgstr "Убрать"
+
+#: wpv_common/admin/helpers/config_generator/upload-basic.php:23
+#: wpv_common/admin/helpers/media-upload.php:30
+#: wpv_common/admin/helpers/gallery-upload.php:31
+#, fuzzy
+msgid "Undo"
+msgstr "Отменить действие"
+
+#: wpv_common/admin/helpers/config_generator/title.php:7
+#, fuzzy
+msgid "Loading"
+msgstr "Загрузка"
+
+#: wpv_common/admin/helpers/config_generator/title.php:14
+#, fuzzy
+msgid "Documentation"
+msgstr "Документация"
+
+#: wpv_common/admin/helpers/config_generator/title.php:15
+#, fuzzy
+msgid "Support"
+msgstr "Поддержка"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:7
+#: wpv_common/wpv_framework.php:165
+#, fuzzy
+msgid "Slides"
+msgstr "Слайды"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:8
+#, fuzzy
+msgid "New HTML slide"
+msgstr "Новый HTML слайд"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:9
+#, fuzzy
+msgid "New image slide"
+msgstr "Новый слайд изображения"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:10
+#, fuzzy
+msgid "[remove]"
+msgstr "[убрать]"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:11
+#, fuzzy
+msgid "Are you sure you want to delete this slider? This will also permanently delete its slides"
+msgstr "Вы уверены, что хотите удалить этот слайдер? Это навсегда удалитвсе его слайды"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:12
+#, fuzzy
+msgid "Do you want to delete this slide permanently?"
+msgstr "Вы действительно хотите удалить этот слайд навсегда?"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:13
+#, fuzzy
+msgid "Please add some slides"
+msgstr "Пожалуйста, добавьте несколько слайдов"
+
+#: wpv_common/admin/helpers/config_generator/slider-editor.php:26
+#, fuzzy
+msgid "Add slider"
+msgstr "Добавить слайдер"
+
+#: wpv_common/admin/helpers/config_generator/horizontal_blocks.php:48
+#, fuzzy
+msgid "last?"
+msgstr "последний?"
+
+#: wpv_common/admin/helpers/config_generator/horizontal_blocks.php:51
+msgid "empty?"
+msgstr ""
+
+#: wpv_common/admin/helpers/config_generator/font.php:74
+#, fuzzy
+msgid "font size"
+msgstr "размер шрифта"
+
+#: wpv_common/admin/helpers/config_generator/font.php:75
+#, fuzzy
+msgid "line height"
+msgstr "высота линии"
+
+#: wpv_common/admin/helpers/config_generator/font.php:78
+#, fuzzy
+msgid "The quick brown fox jumps over the lazy dog"
+msgstr "Быстрая коричневая лисица прыгает через ленивую собаку"
+
+#: wpv_common/admin/helpers/shortcodes/render.php:4
+#: wpv_common/admin/helpers/shortcodes/render.php:42
+#, fuzzy
+msgid "Send Shortcode to Editor »"
+msgstr "Послать короткий код в Редактор"
+
+#: wpv_common/admin/helpers/shortcodes/render.php:9
+#: wpv_common/shortcodes/generator/typography.php:94
+#: wpv_common/shortcodes/generator/column.php:7
+#: wpv_common/shortcodes/generator/divider.php:7
+#: wpv_common/shortcodes/generator/styled_boxes.php:60
+#: wpv_common/shortcodes/generator/widget.php:70
+#, fuzzy
+msgid "Type"
+msgstr "Тип"
+
+#: wpv_common/admin/helpers/shortcodes/render.php:41
+#: wpv_common/admin/helpers/shortcodes/render.php:46
+#, fuzzy
+msgid "Preview"
+msgstr "Предпросмотр"
+
+#: wpv_common/admin/helpers/media-upload.php:21
+#: wpv_common/admin/helpers/gallery-upload.php:22
+#, fuzzy
+msgid "Delete Permanently"
+msgstr "Удалить навсегда"
+
+#: wpv_common/admin/helpers/media-upload.php:24
+#: wpv_common/admin/helpers/gallery-upload.php:25
+#, fuzzy
+msgid "You are about to delete <strong>%s</strong>."
+msgstr "Вы собираетесь удалить <strong>%s</strong>."
+
+#: wpv_common/admin/helpers/media-upload.php:25
+#: wpv_common/admin/helpers/gallery-upload.php:26
+#, fuzzy
+msgid "Continue"
+msgstr "Продолжить"
+
+#: wpv_common/admin/helpers/media-upload.php:26
+#: wpv_common/admin/helpers/gallery-upload.php:27
+#, fuzzy
+msgid "Cancel"
+msgstr "Отменить"
+
+#: wpv_common/admin/helpers/media-upload.php:29
+#: wpv_common/admin/helpers/gallery-upload.php:30
+#, fuzzy
+msgid "Move to Trash"
+msgstr "Переместить в Корзину"
+
+#: wpv_common/admin/helpers/base.php:211
+#, fuzzy
+msgid "The theme must be installed in a directory which is a direct child of wp-content/themes/"
+msgstr "Тема должна быть установлена в директорию, которая находится прямо в wp-content/themes/"
+
+#: wpv_common/admin/helpers/base.php:215
+#, fuzzy
+msgid "You must set write permissions (755 or 777) for the cache directory (%s)"
+msgstr "Вы должны установить разрешения на запись (755 или 777) для директории кэш cache(%s)"
+
+#: wpv_common/admin/helpers/base.php:219
+#, fuzzy
+msgid "It seems that your server doesn't have the GD graphic library installed. Please contact your hosting provider, they should be able to assist you with this issue"
+msgstr "Похоже, что на вашем сервере не установлена графическая библиотека GD Пожалуйста, свяжитесь со своим провайдером, они помогут вам с этой проблемой"
+
+#: wpv_common/admin/helpers/base.php:228
+#, fuzzy
+msgid "There were some some errors with your Vamtam theme setup:"
+msgstr "Произошли ошибки с установлением вашей Vamtam темы"
+
+#: wpv_common/admin/helpers/gallery-upload.php:38
+#, fuzzy
+msgid "Insert into Gallery"
+msgstr "Вставить в галерею"
+
+#: wpv_common/wpv_framework.php:129
+#, fuzzy
+msgid "Menu Header"
+msgstr "Меню Верхний Колонтитул"
+
+#: wpv_common/wpv_framework.php:130
+#, fuzzy
+msgid "Menu Top"
+msgstr "Верхнее Меню"
+
+#: wpv_common/wpv_framework.php:166
+#, fuzzy
+msgid "Slide"
+msgstr "Слайд"
+
+#: wpv_common/wpv_framework.php:167
+#, fuzzy
+msgctxt "slide"
+msgid "Add New"
+msgstr "Добавить Новый"
+
+#: wpv_common/wpv_framework.php:168
+#, fuzzy
+msgid "Add New Slide"
+msgstr "Добавить Новый Слайд"
+
+#: wpv_common/wpv_framework.php:169
+#, fuzzy
+msgid "Edit Slide"
+msgstr "Редактировать Слайд"
+
+#: wpv_common/wpv_framework.php:170
+#, fuzzy
+msgid "New Slide"
+msgstr "Новый Слайд"
+
+#: wpv_common/wpv_framework.php:171
+#, fuzzy
+msgid "View Slide"
+msgstr "Просмотр Слайда"
+
+#: wpv_common/wpv_framework.php:172
+#, fuzzy
+msgid "Search Slides"
+msgstr "Поиск Слайда"
+
+#: wpv_common/wpv_framework.php:173
+#, fuzzy
+msgid "No slides found"
+msgstr "Не найдено слайдов"
+
+#: wpv_common/wpv_framework.php:174
+#, fuzzy
+msgid "No slides found in Trash"
+msgstr "В Корзине не найдено слайдов"
+
+#: wpv_common/wpv_framework.php:189
+#: wpv_common/wpv_framework.php:246
+#, fuzzy
+msgctxt "taxonomy general name"
+msgid "Categories"
+msgstr "Категории"
+
+#: wpv_common/wpv_framework.php:190
+#, fuzzy
+msgctxt "taxonomy singular name"
+msgid "Slideshow Category"
+msgstr "Слайдшоу Категории"
+
+#: wpv_common/wpv_framework.php:191
+#: wpv_common/wpv_framework.php:248
+#, fuzzy
+msgid "Search Categories"
+msgstr "Поиск по категориям"
+
+#: wpv_common/wpv_framework.php:192
+#: wpv_common/wpv_framework.php:249
+#, fuzzy
+msgid "Popular Categories"
+msgstr "Популярные Категории"
+
+#: wpv_common/wpv_framework.php:193
+#: wpv_common/wpv_framework.php:250
+#, fuzzy
+msgid "All Categories"
+msgstr "Все Категории"
+
+#: wpv_common/wpv_framework.php:196
+#, fuzzy
+msgid "Edit Slideshow Category"
+msgstr "Редактировать Слайдшоу Категории"
+
+#: wpv_common/wpv_framework.php:197
+#, fuzzy
+msgid "Update Slideshow Category"
+msgstr "Обновить Категории Слайдшоу"
+
+#: wpv_common/wpv_framework.php:198
+#, fuzzy
+msgid "Add New Slideshow Category"
+msgstr "Добавить Категорию Слайдшоу"
+
+#: wpv_common/wpv_framework.php:199
+#, fuzzy
+msgid "New Slideshow Category Name"
+msgstr "Новое Имя Категории Слайдшоу"
+
+#: wpv_common/wpv_framework.php:200
+#, fuzzy
+msgid "Separate Slideshow categories with commas"
+msgstr "Разделить категории Слайдшоу запятыми"
+
+#: wpv_common/wpv_framework.php:201
+#, fuzzy
+msgid "Add or remove Slideshow category"
+msgstr "Добавить или убрать категории Слайдшоу"
+
+#: wpv_common/wpv_framework.php:202
+#, fuzzy
+msgid "Choose from the most used Slideshow categories"
+msgstr "Выбрать из самых частоиспользуемых категорий"
+
+#: wpv_common/wpv_framework.php:212
+#, fuzzy
+msgctxt "post type general name"
+msgid "Portfolios"
+msgstr "Портфолио"
+
+#: wpv_common/wpv_framework.php:213
+#, fuzzy
+msgctxt "post type singular name"
+msgid "Portfolio"
+msgstr "Портфолио"
+
+#: wpv_common/wpv_framework.php:214
+#, fuzzy
+msgctxt "portfolio"
+msgid "Add New"
+msgstr "Добавить Новый"
+
+#: wpv_common/wpv_framework.php:215
+#, fuzzy
+msgid "Add New Portfolio"
+msgstr "Добавить Новое Портфолио"
+
+#: wpv_common/wpv_framework.php:216
+#, fuzzy
+msgid "Edit Portfolio"
+msgstr "Редактировать Портфолио"
+
+#: wpv_common/wpv_framework.php:217
+#, fuzzy
+msgid "New Portfolio"
+msgstr "Новое Портфолио"
+
+#: wpv_common/wpv_framework.php:218
+#, fuzzy
+msgid "View Portfolio"
+msgstr "Просмотр Портфолио"
+
+#: wpv_common/wpv_framework.php:219
+#, fuzzy
+msgid "Search Portfolios"
+msgstr "Поиск Портфолио"
+
+#: wpv_common/wpv_framework.php:220
+#, fuzzy
+msgid "No portfolios found"
+msgstr "Не найдено портфолио"
+
+#: wpv_common/wpv_framework.php:221
+#, fuzzy
+msgid "No portfolios found in Trash"
+msgstr "В Корзине не найдено портфолио"
+
+#: wpv_common/wpv_framework.php:224
+#, fuzzy
+msgid "portfolio"
+msgstr "портфолио"
+
+#: wpv_common/wpv_framework.php:247
+#, fuzzy
+msgctxt "taxonomy singular name"
+msgid "Portfolio Category"
+msgstr "Категории Портфолио"
+
+#: wpv_common/wpv_framework.php:253
+#, fuzzy
+msgid "Edit Portfolio Category"
+msgstr "Редактировать Категории Портфолио"
+
+#: wpv_common/wpv_framework.php:254
+#, fuzzy
+msgid "Update Portfolio Category"
+msgstr "Обновить Категории Портфолио"
+
+#: wpv_common/wpv_framework.php:255
+#, fuzzy
+msgid "Add New Portfolio Category"
+msgstr "Добавить Новую Категорию Портфолио"
+
+#: wpv_common/wpv_framework.php:256
+#, fuzzy
+msgid "New Portfolio Category Name"
+msgstr "Имя Новой Категории Портфолио"
+
+#: wpv_common/wpv_framework.php:257
+#, fuzzy
+msgid "Separate Portfolio category with commas"
+msgstr "Разделить категории Портфолио запятыми"
+
+#: wpv_common/wpv_framework.php:258
+#, fuzzy
+msgid "Add or remove portfolio category"
+msgstr "Добавить или убрать категории портфолио"
+
+#: wpv_common/wpv_framework.php:259
+#, fuzzy
+msgid "Choose from the most used portfolio category"
+msgstr "Выбрать из самых частоиспользуемых категорий портфолио"
+
+#. #-#-#-#-#  kelta.pot (Kelta 1.0)  #-#-#-#-#
+#. Author of the plugin/theme
+#: wpv_common/wpv_framework.php:346
+#, fuzzy
+msgid "Vamtam"
+msgstr "Vamtam "
+
+#: wpv_common/shortcodes/text_divider.php:19
+#: wpv_common/shortcodes/generator/portfolio.php:100
+#: wpv_common/shortcodes/portfolio.php:21
+#, fuzzy
+msgid "Read more"
+msgstr "Прочитать Больше"
+
+#: wpv_common/shortcodes/text_divider.php:19
+#, fuzzy
+msgid "More"
+msgstr "Прочитать ещё"
+
+#: wpv_common/shortcodes/widgets.php:17
+#: wpv_common/widgets/tpl/contactform-widget.php:9
+#, fuzzy
+msgid "Your message was successfully sent. <strong>Thank You!</strong>"
+msgstr "Ваше сообщение успешно отправлено. <strong>Спасибо!</strong>"
+
+#: wpv_common/shortcodes/widgets.php:19
+#, fuzzy
+msgid "Name *"
+msgstr "Имя *"
+
+#: wpv_common/shortcodes/widgets.php:20
+#, fuzzy
+msgid "Email *"
+msgstr "Email *"
+
+#: wpv_common/shortcodes/widgets.php:51
+#: wpv_common/widgets/tpl/twitter-widget.php:21
+#, fuzzy
+msgid "about %d seconds ago"
+msgstr "%d секунд назад"
+
+#: wpv_common/shortcodes/widgets.php:52
+#: wpv_common/widgets/tpl/twitter-widget.php:22
+#, fuzzy
+msgid "about a minute ago"
+msgstr "минуту назад"
+
+#: wpv_common/shortcodes/widgets.php:53
+#: wpv_common/widgets/tpl/twitter-widget.php:23
+#, fuzzy
+msgid "about %d minutes ago"
+msgstr "%d минут назад "
+
+#: wpv_common/shortcodes/widgets.php:54
+#: wpv_common/widgets/tpl/twitter-widget.php:24
+#, fuzzy
+msgid "about an hour ago"
+msgstr "час назад"
+
+#: wpv_common/shortcodes/widgets.php:55
+#: wpv_common/widgets/tpl/twitter-widget.php:25
+#, fuzzy
+msgid "about %d hours ago"
+msgstr "%d часов назад"
+
+#: wpv_common/shortcodes/widgets.php:56
+#: wpv_common/widgets/tpl/twitter-widget.php:26
+#, fuzzy
+msgid "about a day ago"
+msgstr "приблизительно день назад"
+
+#: wpv_common/shortcodes/widgets.php:57
+#: wpv_common/widgets/tpl/twitter-widget.php:27
+#, fuzzy
+msgid "about %d days ago"
+msgstr "%d дней назад "
+
+#: wpv_common/shortcodes/widgets.php:58
+#: wpv_common/widgets/tpl/twitter-widget.php:28
+#, fuzzy
+msgid "view tweet on twitter"
+msgstr "просмотреть твит на твиттере"
+
+#: wpv_common/shortcodes/generator/accordion.php:3
+#, fuzzy
+msgid "Accordion"
+msgstr "Аккордеон"
+
+#: wpv_common/shortcodes/generator/accordion.php:7
+#, fuzzy
+msgid "Number of panes"
+msgstr "Количество панелей"
+
+#: wpv_common/shortcodes/generator/accordion.php:16
+#, fuzzy
+msgid "Mini"
+msgstr "Мини"
+
+#: wpv_common/shortcodes/generator/accordion.php:22
+#: wpv_common/shortcodes/generator/accordion.php:34
+#: wpv_common/shortcodes/generator/accordion.php:46
+#: wpv_common/shortcodes/generator/accordion.php:58
+#: wpv_common/shortcodes/generator/accordion.php:70
+#: wpv_common/shortcodes/generator/accordion.php:82
+#: wpv_common/shortcodes/generator/accordion.php:94
+#: wpv_common/shortcodes/generator/accordion.php:106
+#, fuzzy
+msgid "Accordion %d Title"
+msgstr "Заглавие %d Аккордеона"
+
+#: wpv_common/shortcodes/generator/accordion.php:28
+#: wpv_common/shortcodes/generator/accordion.php:40
+#: wpv_common/shortcodes/generator/accordion.php:52
+#: wpv_common/shortcodes/generator/accordion.php:64
+#: wpv_common/shortcodes/generator/accordion.php:76
+#: wpv_common/shortcodes/generator/accordion.php:88
+#: wpv_common/shortcodes/generator/accordion.php:100
+#: wpv_common/shortcodes/generator/accordion.php:112
+#, fuzzy
+msgid "Accordion %d Content"
+msgstr "Аккордеон %d Содержание"
+
+#: wpv_common/shortcodes/generator/text_divider.php:3
+#, fuzzy
+msgid "Text divider"
+msgstr "Разделитель текста"
+
+#: wpv_common/shortcodes/generator/price.php:3
+#: wpv_common/shortcodes/generator/price.php:13
+#, fuzzy
+msgid "Price"
+msgstr "Цена"
+
+#: wpv_common/shortcodes/generator/price.php:19
+#, fuzzy
+msgid "Currency"
+msgstr "Валюта"
+
+#: wpv_common/shortcodes/generator/price.php:25
+#, fuzzy
+msgid "Duration"
+msgstr "Длительность"
+
+#: wpv_common/shortcodes/generator/price.php:31
+#, fuzzy
+msgid "Summary"
+msgstr "Сводка"
+
+#: wpv_common/shortcodes/generator/price.php:43
+#: wpv_common/shortcodes/generator/slogan.php:13
+#: wpv_common/shortcodes/generator/services.php:33
+#, fuzzy
+msgid "Button text"
+msgstr "Текст кнопки"
+
+#: wpv_common/shortcodes/generator/price.php:49
+#: wpv_common/shortcodes/generator/slogan.php:19
+#: wpv_common/shortcodes/generator/services.php:39
+#, fuzzy
+msgid "Button link"
+msgstr "Ссылка на кнопку"
+
+#: wpv_common/shortcodes/generator/price.php:55
+#: wpv_common/shortcodes/generator/services.php:45
+#, fuzzy
+msgid "Text alignment"
+msgstr "Выравнивание текста"
+
+#: wpv_common/shortcodes/generator/price.php:67
+#: wpv_common/shortcodes/generator/services.php:57
+#, fuzzy
+msgid "Title size"
+msgstr "Размер заглавия"
+
+#: wpv_common/shortcodes/generator/price.php:75
+#, fuzzy
+msgid "Title color"
+msgstr "Цвет заглавия"
+
+#: wpv_common/shortcodes/generator/price.php:76
+#: wpv_common/shortcodes/generator/price.php:83
+#: wpv_common/shortcodes/generator/price.php:90
+#: wpv_common/shortcodes/generator/price.php:97
+#: wpv_common/shortcodes/generator/price.php:112
+#: wpv_common/shortcodes/generator/price.php:119
+#: wpv_common/shortcodes/generator/button.php:68
+#: wpv_common/shortcodes/generator/slogan.php:38
+#: wpv_common/shortcodes/generator/slogan.php:45
+#, fuzzy
+msgid "Please click the Preview button to see its effect"
+msgstr "Пожалуйста, кликните по кнопке Предпросмотр, чтобы посмотреть ее действие"
+
+#: wpv_common/shortcodes/generator/price.php:89
+#, fuzzy
+msgid "Price color"
+msgstr "Цвет цены"
+
+#: wpv_common/shortcodes/generator/price.php:96
+#, fuzzy
+msgid "Price background"
+msgstr "Фон цены"
+
+#: wpv_common/shortcodes/generator/price.php:103
+#, fuzzy
+msgid "Price size"
+msgstr "Размер цены"
+
+#: wpv_common/shortcodes/generator/price.php:111
+#, fuzzy
+msgid "Description color"
+msgstr "Цвет описания"
+
+#: wpv_common/shortcodes/generator/price.php:118
+#, fuzzy
+msgid "Description background"
+msgstr "Фон описания"
+
+#: wpv_common/shortcodes/generator/typography.php:8
+#, fuzzy
+msgid "Vertical blank space"
+msgstr "Вертикальное пустое место"
+
+#: wpv_common/shortcodes/generator/typography.php:12
+#: wpv_common/shortcodes/generator/sequence.php:37
+#: wpv_common/shortcodes/generator/showcase.php:47
+#: wpv_common/shortcodes/generator/video.php:53
+#: wpv_common/shortcodes/generator/gmap.php:17
+#: wpv_common/shortcodes/generator/slider.php:37
+#: wpv_common/shortcodes/generator/iframe.php:22
+#, fuzzy
+msgid "Height"
+msgstr "Высота"
+
+#: wpv_common/shortcodes/generator/typography.php:22
+#: wpv_common/shortcodes/generator/typography.php:41
+#, fuzzy
+msgid "Drop Cap %s"
+msgstr "Буквица %s "
+
+#: wpv_common/shortcodes/generator/typography.php:32
+#: wpv_common/shortcodes/generator/typography.php:51
+#: wpv_common/shortcodes/generator/typography.php:129
+#: wpv_common/shortcodes/generator/typography.php:185
+#: wpv_common/shortcodes/generator/widget.php:112
+#, fuzzy
+msgid "Color (optional)"
+msgstr "Цвет (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/typography.php:33
+#: wpv_common/shortcodes/generator/typography.php:52
+#, fuzzy
+msgid "Please click \"Preview\" to see the correct color in the preview"
+msgstr "Пожалуйста, нажмите \"Предпросмотр\", чтобы увидеть цвет"
+
+#: wpv_common/shortcodes/generator/typography.php:60
+#, fuzzy
+msgid "Block Quotes"
+msgstr "Блокировать Цитаты"
+
+#: wpv_common/shortcodes/generator/typography.php:64
+#: wpv_common/shortcodes/generator/button.php:36
+#: wpv_common/shortcodes/generator/styled_boxes.php:96
+#: wpv_common/shortcodes/generator/image.php:22
+#, fuzzy
+msgid "Align (optional)"
+msgstr "Выравнивание (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/typography.php:67
+#: wpv_common/shortcodes/generator/typography.php:132
+#: wpv_common/shortcodes/generator/typography.php:188
+#: wpv_common/shortcodes/generator/typography.php:228
+#: wpv_common/shortcodes/generator/button.php:39
+#: wpv_common/shortcodes/generator/button.php:57
+#: wpv_common/shortcodes/generator/styled_boxes.php:100
+#: wpv_common/shortcodes/generator/widget.php:115
+#: wpv_common/shortcodes/generator/gmap.php:91
+#: wpv_common/shortcodes/generator/image.php:25
+#, fuzzy
+msgid "Choose one.."
+msgstr "Выберите один.."
+
+#: wpv_common/shortcodes/generator/typography.php:69
+#: wpv_common/shortcodes/generator/button.php:41
+#: wpv_common/shortcodes/generator/image.php:27
+#, fuzzy
+msgid "Left"
+msgstr "Слева"
+
+#: wpv_common/shortcodes/generator/typography.php:70
+#: wpv_common/shortcodes/generator/button.php:42
+#: wpv_common/shortcodes/generator/image.php:28
+#, fuzzy
+msgid "Right"
+msgstr "Справа"
+
+#: wpv_common/shortcodes/generator/typography.php:71
+#: wpv_common/shortcodes/generator/button.php:43
+#: wpv_common/shortcodes/generator/image.php:29
+#, fuzzy
+msgid "Center"
+msgstr "Центр"
+
+#: wpv_common/shortcodes/generator/typography.php:76
+#, fuzzy
+msgid "Cite (optional)"
+msgstr "Цитировать (по умолчанию)"
+
+#: wpv_common/shortcodes/generator/typography.php:82
+#: wpv_common/shortcodes/generator/typography.php:104
+#: wpv_common/shortcodes/generator/typography.php:146
+#: wpv_common/shortcodes/generator/typography.php:236
+#: wpv_common/shortcodes/generator/column.php:37
+#: wpv_common/shortcodes/generator/toggle.php:13
+#: wpv_common/shortcodes/generator/table.php:7
+#: wpv_common/shortcodes/generator/styled_boxes.php:12
+#: wpv_common/shortcodes/generator/styled_boxes.php:72
+#: wpv_common/shortcodes/generator/styled_boxes.php:90
+#: wpv_common/shortcodes/generator/lightbox.php:7
+#: wpv_common/shortcodes/generator/services_expandable.php:19
+#, fuzzy
+msgid "Content"
+msgstr "Содержание"
+
+#: wpv_common/shortcodes/generator/typography.php:90
+#, fuzzy
+msgid "Pre & Code"
+msgstr "Пре и Код"
+
+#: wpv_common/shortcodes/generator/typography.php:112
+#, fuzzy
+msgid "Styled List"
+msgstr "Стилированный Список"
+
+#: wpv_common/shortcodes/generator/typography.php:116
+#: wpv_common/shortcodes/generator/typography.php:159
+#: wpv_common/shortcodes/generator/tabs.php:16
+#, fuzzy
+msgid "Style"
+msgstr "Стиль"
+
+#: wpv_common/shortcodes/generator/typography.php:147
+#, fuzzy
+msgid "Please insert a valid HTML unordered list"
+msgstr "Пожалуйста, вставьте корректный HTML список "
+
+#: wpv_common/shortcodes/generator/typography.php:155
+#, fuzzy
+msgid "Icon with text"
+msgstr "Иконка с текстом"
+
+#: wpv_common/shortcodes/generator/typography.php:202
+#: wpv_common/shortcodes/generator/button.php:25
+#, fuzzy
+msgid "Size"
+msgstr "Размер"
+
+#: wpv_common/shortcodes/generator/typography.php:207
+#: wpv_common/shortcodes/generator/button.php:29
+#, fuzzy
+msgid "Small"
+msgstr "Маленький"
+
+#: wpv_common/shortcodes/generator/typography.php:208
+#: wpv_common/shortcodes/generator/button.php:30
+#, fuzzy
+msgid "Medium"
+msgstr "Средний"
+
+#: wpv_common/shortcodes/generator/typography.php:209
+#: wpv_common/shortcodes/generator/button.php:31
+#, fuzzy
+msgid "Large"
+msgstr "Большой"
+
+#: wpv_common/shortcodes/generator/typography.php:221
+#: wpv_common/shortcodes/generator/showcase.php:90
+#: wpv_common/shortcodes/generator/slider.php:97
+#, fuzzy
+msgid "Highlight"
+msgstr "Выделить"
+
+#: wpv_common/shortcodes/generator/typography.php:225
+#, fuzzy
+msgid "Type (optional)"
+msgstr "Тип (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/typography.php:230
+#, fuzzy
+msgid "light"
+msgstr "светлый"
+
+#: wpv_common/shortcodes/generator/typography.php:231
+#, fuzzy
+msgid "dark"
+msgstr "темный"
+
+#: wpv_common/shortcodes/generator/columns.php:3
+#: wpv_common/shortcodes/generator/portfolio.php:7
+#, fuzzy
+msgid "Columns"
+msgstr "Колонки"
+
+#: wpv_common/shortcodes/generator/columns.php:8
+#, fuzzy
+msgid "Two Column Layout"
+msgstr "Вид двух колонок"
+
+#: wpv_common/shortcodes/generator/columns.php:12
+#: wpv_common/shortcodes/generator/columns.php:18
+#: wpv_common/shortcodes/generator/columns.php:30
+#: wpv_common/shortcodes/generator/columns.php:36
+#: wpv_common/shortcodes/generator/columns.php:42
+#: wpv_common/shortcodes/generator/columns.php:54
+#: wpv_common/shortcodes/generator/columns.php:60
+#: wpv_common/shortcodes/generator/columns.php:66
+#: wpv_common/shortcodes/generator/columns.php:72
+#: wpv_common/shortcodes/generator/columns.php:84
+#: wpv_common/shortcodes/generator/columns.php:90
+#: wpv_common/shortcodes/generator/columns.php:96
+#: wpv_common/shortcodes/generator/columns.php:102
+#: wpv_common/shortcodes/generator/columns.php:108
+#: wpv_common/shortcodes/generator/columns.php:120
+#: wpv_common/shortcodes/generator/columns.php:126
+#: wpv_common/shortcodes/generator/columns.php:132
+#: wpv_common/shortcodes/generator/columns.php:138
+#: wpv_common/shortcodes/generator/columns.php:144
+#: wpv_common/shortcodes/generator/columns.php:150
+#: wpv_common/shortcodes/generator/columns.php:162
+#: wpv_common/shortcodes/generator/columns.php:168
+#: wpv_common/shortcodes/generator/columns.php:180
+#: wpv_common/shortcodes/generator/columns.php:186
+#: wpv_common/shortcodes/generator/columns.php:198
+#: wpv_common/shortcodes/generator/columns.php:204
+#: wpv_common/shortcodes/generator/columns.php:216
+#: wpv_common/shortcodes/generator/columns.php:222
+#: wpv_common/shortcodes/generator/columns.php:234
+#: wpv_common/shortcodes/generator/columns.php:240
+#: wpv_common/shortcodes/generator/columns.php:246
+#: wpv_common/shortcodes/generator/columns.php:258
+#: wpv_common/shortcodes/generator/columns.php:264
+#: wpv_common/shortcodes/generator/columns.php:270
+#: wpv_common/shortcodes/generator/columns.php:282
+#: wpv_common/shortcodes/generator/columns.php:288
+#: wpv_common/shortcodes/generator/columns.php:294
+#: wpv_common/shortcodes/generator/columns.php:306
+#: wpv_common/shortcodes/generator/columns.php:312
+#: wpv_common/shortcodes/generator/columns.php:324
+#: wpv_common/shortcodes/generator/columns.php:330
+#: wpv_common/shortcodes/generator/columns.php:342
+#: wpv_common/shortcodes/generator/columns.php:348
+#: wpv_common/shortcodes/generator/columns.php:360
+#: wpv_common/shortcodes/generator/columns.php:366
+#: wpv_common/shortcodes/generator/columns.php:378
+#: wpv_common/shortcodes/generator/columns.php:384
+#: wpv_common/shortcodes/generator/columns.php:396
+#: wpv_common/shortcodes/generator/columns.php:402
+#: wpv_common/shortcodes/generator/columns.php:414
+#: wpv_common/shortcodes/generator/columns.php:420
+#: wpv_common/shortcodes/generator/columns.php:426
+#: wpv_common/shortcodes/generator/columns.php:432
+#, fuzzy
+msgid "%s Content"
+msgstr "%s Содержание"
+
+#: wpv_common/shortcodes/generator/columns.php:26
+#, fuzzy
+msgid "Three Column Layout"
+msgstr "Вид Трех Колонок"
+
+#: wpv_common/shortcodes/generator/columns.php:50
+#, fuzzy
+msgid "Four Column Layout"
+msgstr " Вид Четырех Колонок "
+
+#: wpv_common/shortcodes/generator/columns.php:80
+#, fuzzy
+msgid "Five Column Layout"
+msgstr " Вид Пяти Колонок "
+
+#: wpv_common/shortcodes/generator/columns.php:116
+#, fuzzy
+msgid "Six Column Layout"
+msgstr " Вид Шести Колонок "
+
+#: wpv_common/shortcodes/generator/columns.php:158
+#, fuzzy
+msgid "One Third - Two Third"
+msgstr "Одна Третья – Две Третьих"
+
+#: wpv_common/shortcodes/generator/columns.php:176
+#, fuzzy
+msgid "Two Third - One Third"
+msgstr "Две Третьих – Одна Третья"
+
+#: wpv_common/shortcodes/generator/columns.php:194
+#, fuzzy
+msgid "One Fourth - Three Fourth"
+msgstr "Одна Четвертая – Три Четвертых"
+
+#: wpv_common/shortcodes/generator/columns.php:212
+#, fuzzy
+msgid "Three Fourth - One Fourth"
+msgstr "Три Четвертых – Одна Четвертая"
+
+#: wpv_common/shortcodes/generator/columns.php:230
+#, fuzzy
+msgid "One Fourth - One Fourth - One Half"
+msgstr "Одна Четвертая – Одна Четвертая – Половина"
+
+#: wpv_common/shortcodes/generator/columns.php:254
+#, fuzzy
+msgid "One Fourth - One Half - One Fourth"
+msgstr "Одна Четвертая  - Половина – Одна Четвертая"
+
+#: wpv_common/shortcodes/generator/columns.php:278
+#, fuzzy
+msgid "One Half - One Fourth - One Fourth"
+msgstr "Половина – Одна Четвертая – Одна Четвертая"
+
+#: wpv_common/shortcodes/generator/columns.php:302
+#, fuzzy
+msgid "Four Fifth - One Fifth"
+msgstr "Четыре Пятых – Одна Пятая"
+
+#: wpv_common/shortcodes/generator/columns.php:320
+#, fuzzy
+msgid "One Fifth - Four Fifth"
+msgstr "Одна Пятая – Четыре Пятых"
+
+#: wpv_common/shortcodes/generator/columns.php:338
+#, fuzzy
+msgid "Two Fifth - Three Fifth"
+msgstr "Две Пятых – Три Пятых"
+
+#: wpv_common/shortcodes/generator/columns.php:356
+#, fuzzy
+msgid "Three Fifth - Two Fifth"
+msgstr "Три Пятых – Две Пятых"
+
+#: wpv_common/shortcodes/generator/columns.php:374
+#, fuzzy
+msgid "One Sixth - Five Sixth"
+msgstr "Одна шестая – Пять Шестых"
+
+#: wpv_common/shortcodes/generator/columns.php:392
+#, fuzzy
+msgid "Five Sixth - One Sixth"
+msgstr "Пять Шестых – Одна Шестая"
+
+#: wpv_common/shortcodes/generator/columns.php:410
+#, fuzzy
+msgid "One Sixth - One Sixth - One Sixth - One Half"
+msgstr "Одна Шестая – Одна Шестая – Одна Шестая - Половина"
+
+#: wpv_common/shortcodes/generator/button.php:3
+#, fuzzy
+msgid "Buttons"
+msgstr "Кнопки"
+
+#: wpv_common/shortcodes/generator/button.php:13
+#, fuzzy
+msgid "Id (optional)"
+msgstr "ID (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/button.php:19
+#, fuzzy
+msgid "Class (optional)"
+msgstr "Класс (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/button.php:48
+#: wpv_common/shortcodes/generator/image.php:70
+#, fuzzy
+msgid "Link (optional)"
+msgstr "Ссылка (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/button.php:54
+#, fuzzy
+msgid "Link Target (optional)"
+msgstr "Объект, ссылка (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/button.php:59
+#, fuzzy
+msgid "Load in a new window"
+msgstr "Загрузить в новом окне"
+
+#: wpv_common/shortcodes/generator/button.php:60
+#, fuzzy
+msgid "Load in the same frame as it was clicked"
+msgstr "Загрузить в том же фрейме"
+
+#: wpv_common/shortcodes/generator/button.php:61
+#, fuzzy
+msgid "Load in the parent frameset"
+msgstr "Загрузить в оригинальном фреймсете"
+
+#: wpv_common/shortcodes/generator/button.php:62
+#, fuzzy
+msgid "Load in the full body of the window"
+msgstr "Загрузить в полном масштабе окна"
+
+#: wpv_common/shortcodes/generator/button.php:67
+#, fuzzy
+msgid "Text color (optional)"
+msgstr "Цвет текста (по умолчанию)"
+
+#: wpv_common/shortcodes/generator/button.php:74
+#: wpv_common/shortcodes/generator/styled_boxes.php:36
+#, fuzzy
+msgid "Background Color (optional)"
+msgstr "Цвет Фона (по умолчанию)"
+
+#: wpv_common/shortcodes/generator/button.php:80
+#, fuzzy
+msgid "Red"
+msgstr "Красный"
+
+#: wpv_common/shortcodes/generator/button.php:81
+#, fuzzy
+msgid "Green"
+msgstr "Зеленый"
+
+#: wpv_common/shortcodes/generator/button.php:82
+#, fuzzy
+msgid "Blue"
+msgstr "Голубой"
+
+#: wpv_common/shortcodes/generator/sequence.php:8
+#: wpv_common/shortcodes/generator/slider.php:8
+#, fuzzy
+msgid "Slide %d"
+msgstr "Слайд %d"
+
+#: wpv_common/shortcodes/generator/sequence.php:15
+#: wpv_common/shortcodes/generator/slider.php:15
+#, fuzzy
+msgid "Sliders"
+msgstr "Слайдеры"
+
+#: wpv_common/shortcodes/generator/sequence.php:19
+#: wpv_common/shortcodes/generator/showcase.php:29
+#: wpv_common/shortcodes/generator/slider.php:19
+#, fuzzy
+msgid "Number of slides"
+msgstr "Количество слайдов"
+
+#: wpv_common/shortcodes/generator/sequence.php:28
+#: wpv_common/shortcodes/generator/showcase.php:38
+#: wpv_common/shortcodes/generator/video.php:44
+#: wpv_common/shortcodes/generator/slider.php:28
+#: wpv_common/shortcodes/generator/iframe.php:14
+#, fuzzy
+msgid "Width"
+msgstr "Ширина"
+
+#: wpv_common/shortcodes/generator/sequence.php:29
+#: wpv_common/shortcodes/generator/showcase.php:39
+#: wpv_common/shortcodes/generator/slider.php:29
+#, fuzzy
+msgid "Set it to 0 for maximum width"
+msgstr "Выставить на 0 для максимальной ширины"
+
+#: wpv_common/shortcodes/generator/sequence.php:45
+#: wpv_common/shortcodes/generator/showcase.php:55
+#: wpv_common/shortcodes/generator/slider.php:55
+#, fuzzy
+msgid "Effect"
+msgstr "Эффект"
+
+#: wpv_common/shortcodes/generator/sequence.php:67
+#: wpv_common/shortcodes/generator/showcase.php:84
+#: wpv_common/shortcodes/generator/slider.php:91
+#, fuzzy
+msgid "Annotation"
+msgstr "Аннотация"
+
+#: wpv_common/shortcodes/generator/sequence.php:68
+#: wpv_common/shortcodes/generator/slider.php:92
+#, fuzzy
+msgid "Some styles may use this instead of or in addition to a caption"
+msgstr "Некоторые стили могут использовать это вместо или вместе с заглавием"
+
+#: wpv_common/shortcodes/generator/column.php:3
+#, fuzzy
+msgid "Single column"
+msgstr "Один столбик"
+
+#: wpv_common/shortcodes/generator/portfolio.php:15
+#: wpv_common/shortcodes/generator/blog.php:17
+#, fuzzy
+msgid "Parent column"
+msgstr "Главный столбик"
+
+#: wpv_common/shortcodes/generator/portfolio.php:17
+#: wpv_common/shortcodes/generator/blog.php:19
+#, fuzzy
+msgid "If you have put this shortcode in a column, you need to specify the width of the parent column"
+msgstr "Если вы вставили этот короткий код в столбик, вам нужно указать ширинуглавного столбика"
+
+#: wpv_common/shortcodes/generator/portfolio.php:30
+#, fuzzy
+msgid "No Paging"
+msgstr "Нет Страниц"
+
+#: wpv_common/shortcodes/generator/portfolio.php:32
+#: wpv_common/shortcodes/generator/blog.php:95
+#, fuzzy
+msgid "If the option is on, it will disable pagination"
+msgstr "Если эта опция включена, то нумерация будет отключена"
+
+#: wpv_common/shortcodes/generator/portfolio.php:37
+#, fuzzy
+msgid "Max"
+msgstr "Максимум"
+
+#: wpv_common/shortcodes/generator/portfolio.php:38
+#, fuzzy
+msgid "Number of item to show per page. If you set it to -1, it will display all portfolio items"
+msgstr "Количество элементов на странице. Если выставлено на -1, то будут показанывсе элементы портфолио"
+
+#: wpv_common/shortcodes/generator/portfolio.php:47
+#: wpv_common/shortcodes/generator/services.php:19
+#, fuzzy
+msgid "Image height"
+msgstr "Высота изображения"
+
+#: wpv_common/shortcodes/generator/portfolio.php:55
+#, fuzzy
+msgid "Sortable"
+msgstr "Сортируемое"
+
+#: wpv_common/shortcodes/generator/portfolio.php:57
+#, fuzzy
+msgid "If the option is on, it will disable pagination, displaying all posts by category with sortable."
+msgstr "Если эта опция включена, то нумерация страниц будет отключена, отображаявсе посты по категориям с сортируемым содержанием."
+
+#: wpv_common/shortcodes/generator/portfolio.php:62
+#, fuzzy
+msgid "Categories (optional)"
+msgstr "Категории (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/portfolio.php:69
+#, fuzzy
+msgid "Ids (optional)"
+msgstr "ID (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/portfolio.php:70
+#, fuzzy
+msgid "The specific portfolios you want to display"
+msgstr "Определенные портфолио, которые вы хотите отображать"
+
+#: wpv_common/shortcodes/generator/portfolio.php:77
+#, fuzzy
+msgid "Display Title"
+msgstr "Показывать Заглавие"
+
+#: wpv_common/shortcodes/generator/portfolio.php:79
+#, fuzzy
+msgid "If the option is on, it will display title of portfolio."
+msgstr "Если эта опция включена, то будет показано название портфолио."
+
+#: wpv_common/shortcodes/generator/portfolio.php:84
+#, fuzzy
+msgid "Display Description"
+msgstr "Показывать Описание"
+
+#: wpv_common/shortcodes/generator/portfolio.php:86
+#, fuzzy
+msgid "If the option is on, it will display description of portfolio."
+msgstr "Если эта опция включена, то будет показано описание портфолио."
+
+#: wpv_common/shortcodes/generator/portfolio.php:91
+#, fuzzy
+msgid "Display More Button"
+msgstr "Показать кнопку Больше"
+
+#: wpv_common/shortcodes/generator/portfolio.php:93
+#, fuzzy
+msgid "If the option is on, it will display more button."
+msgstr "Если эта опция включена, то будет показана кнопка Больше."
+
+#: wpv_common/shortcodes/generator/portfolio.php:98
+#, fuzzy
+msgid "More Button Text"
+msgstr "Текст Кнопки Больше"
+
+#: wpv_common/shortcodes/generator/portfolio.php:104
+#: wpv_common/shortcodes/generator/widget.php:75
+#, fuzzy
+msgid "Group"
+msgstr "Группа"
+
+#: wpv_common/shortcodes/generator/portfolio.php:106
+#, fuzzy
+msgid "If the option is on, the lightbox will display left and right arrow."
+msgstr "Если эта опция включена, то будет показана левая и правая стрелка в лайтбокс."
+
+#: wpv_common/shortcodes/generator/portfolio.php:111
+#, fuzzy
+msgid "Long description"
+msgstr "Длинное описание"
+
+#: wpv_common/shortcodes/generator/showcase.php:8
+#, fuzzy
+msgid "Image %d"
+msgstr "Изображение %d"
+
+#: wpv_common/shortcodes/generator/showcase.php:20
+#, fuzzy
+msgid "Number of columns"
+msgstr "Количество столбцев"
+
+#: wpv_common/shortcodes/generator/showcase.php:62
+#: wpv_common/shortcodes/generator/slider.php:62
+#, fuzzy
+msgid "Animation speed"
+msgstr "Скорость анимации"
+
+#: wpv_common/shortcodes/generator/showcase.php:85
+#, fuzzy
+msgid "If anything is entered in this field, it will be displayed as a static first column"
+msgstr "Если в этом поле что-либо выставлено, то оно будет отображаться какпервый статический столбец"
+
+#: wpv_common/shortcodes/generator/blog.php:7
+#: wpv_common/shortcodes/generator/widget.php:37
+#: wpv_common/shortcodes/generator/widget.php:86
+#, fuzzy
+msgid "Count"
+msgstr "Счетчик"
+
+#: wpv_common/shortcodes/generator/blog.php:8
+#, fuzzy
+msgid "Number of posts to show per page"
+msgstr "Количество постов показанных на странице"
+
+#: wpv_common/shortcodes/generator/blog.php:32
+#, fuzzy
+msgid "Split"
+msgstr "Разделить"
+
+#: wpv_common/shortcodes/generator/blog.php:34
+#, fuzzy
+msgid "You can split the blog over several columns. This option works only if the blog shortcode is not inside a column shortcode"
+msgstr "Вы можете разделить блог на несколько столбцев. Эта опция работает только есликороткий код блога не находится внутри короткого кода столбца"
+
+#: wpv_common/shortcodes/generator/blog.php:46
+#: wpv_common/shortcodes/generator/sitemap.php:123
+#: wpv_common/shortcodes/generator/sitemap.php:161
+#, fuzzy
+msgid "Category (optional)"
+msgstr "Категория (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/blog.php:53
+#: wpv_common/shortcodes/generator/sitemap.php:130
+#, fuzzy
+msgid "Posts (optional)"
+msgstr "Посты (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/blog.php:54
+#, fuzzy
+msgid "If you select any posts here, this option will override the category option above"
+msgstr "Если вы выберете посты здесь, эта опция будет действовать вместо опции выше"
+
+#: wpv_common/shortcodes/generator/blog.php:63
+#, fuzzy
+msgid "If the option is on, it will display Featured Image of blog post"
+msgstr "Если эта опция включена, будут отображены Форматированные Изображения блог поста"
+
+#: wpv_common/shortcodes/generator/blog.php:68
+#, fuzzy
+msgid "Image position"
+msgstr "Позиция картинки"
+
+#: wpv_common/shortcodes/generator/blog.php:79
+#, fuzzy
+msgid "Meta Information"
+msgstr "Мета информация"
+
+#: wpv_common/shortcodes/generator/blog.php:81
+#, fuzzy
+msgid "If the option is on, it will display Meta Information of blog post"
+msgstr "Если эта опция включена,  будет отображена Мета Информация блог поста"
+
+#: wpv_common/shortcodes/generator/blog.php:86
+#, fuzzy
+msgid "Display Full Post"
+msgstr "Отобразить Пост Польностью"
+
+#: wpv_common/shortcodes/generator/blog.php:88
+#, fuzzy
+msgid "If the option is on, it will display the content of the post, otherwise it will display the excerpt"
+msgstr "Если эта опция включена, будет отображено содержание поста, иначебудет отображена выдержка"
+
+#: wpv_common/shortcodes/generator/blog.php:93
+#, fuzzy
+msgid "Nopaging"
+msgstr "Нет страниц"
+
+#: wpv_common/shortcodes/generator/blog.php:100
+#, fuzzy
+msgid "News style"
+msgstr "Стиль новостей"
+
+#: wpv_common/shortcodes/generator/chart.php:8
+msgid "<a href=\"http://techtracer.com/2007/12/17/the-power-of-google-chart-api/\">Google Chart API Tutorial</a>"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/toggle.php:3
+#, fuzzy
+msgid "Toggle"
+msgstr "Переключатель"
+
+#: wpv_common/shortcodes/generator/toggle.php:19
+#, fuzzy
+msgid "Load closed"
+msgstr "Загрузка закрыта"
+
+#: wpv_common/shortcodes/generator/table.php:3
+#, fuzzy
+msgid "Table"
+msgstr "Таблица"
+
+#: wpv_common/shortcodes/generator/table.php:8
+#, fuzzy
+msgid "Please insert a valid HTML table, you can use thead and tfood if you wish"
+msgstr "Пожалуйста, вставьте корректную таблицу HTML , вы можете использоватьthead или tfood если хотите"
+
+#: wpv_common/shortcodes/generator/slogan.php:3
+#, fuzzy
+msgid "Slogan"
+msgstr "Слоган"
+
+#: wpv_common/shortcodes/generator/slogan.php:25
+#, fuzzy
+msgid "Use 'carved' button"
+msgstr "Использовать кнопку  'carved' "
+
+#: wpv_common/shortcodes/generator/slogan.php:31
+#, fuzzy
+msgid "No padding"
+msgstr "Нет дополнения"
+
+#: wpv_common/shortcodes/generator/slogan.php:37
+#: wpv_common/shortcodes/generator/services_expandable.php:25
+#, fuzzy
+msgid "Background"
+msgstr "Фон"
+
+#: wpv_common/shortcodes/generator/slogan.php:44
+#, fuzzy
+msgid "Text color"
+msgstr "Цвет текста"
+
+#: wpv_common/shortcodes/generator/video.php:3
+#, fuzzy
+msgid "Video"
+msgstr "Видео"
+
+#: wpv_common/shortcodes/generator/video.php:12
+#, fuzzy
+msgid "Poster Image"
+msgstr "Изображение постера"
+
+#: wpv_common/shortcodes/generator/video.php:13
+#, fuzzy
+msgid "The poster image is placeholder for the video before it plays. It's also used as the image fallback for devices that don't support HTML5 Video or Flash. "
+msgstr "Изображение постера содержит видео перед тем, как оно начинает играть.Оно также используется как резерв для устройств, которые не поддерживаютHTML5 Видео или Flash."
+
+#: wpv_common/shortcodes/generator/video.php:20
+#, fuzzy
+msgid "MP4 Source"
+msgstr "Источник MP4"
+
+#: wpv_common/shortcodes/generator/video.php:21
+#, fuzzy
+msgid "Supported by Webkit browsers (Safari, Chrome, iPhone/iPad) and Internet Explorer 9. Also supported by Flash 9 and higher, so can double as the Flash source."
+msgstr "Поддерживается браузерами Webkit (Safari, Chrome, iPhone/iPad) иInternet Explorer 9. Также поддерживается Flash 9 и выше, может выступатьисточником Flash"
+
+#: wpv_common/shortcodes/generator/video.php:28
+#, fuzzy
+msgid "WebM Source"
+msgstr "WebM Источник"
+
+#: wpv_common/shortcodes/generator/video.php:29
+#, fuzzy
+msgid "Supported by newer versions of Firefox, Chrome, and Opera."
+msgstr "Поддерживается новыми версиями Firefox, Chrome, Opera"
+
+#: wpv_common/shortcodes/generator/video.php:36
+#, fuzzy
+msgid "Ogg Source"
+msgstr "Источник Ogg"
+
+#: wpv_common/shortcodes/generator/video.php:37
+#, fuzzy
+msgid "Supported by Firefox, Opera, Chrome, and newer versions of Safari. Unfortunately it's not as good as WebM and MP4."
+msgstr "Поддерживается Firefox, Opera, Chrome и новыми версиями SafariК сожалению, WebM MP4 намного лучше."
+
+#: wpv_common/shortcodes/generator/video.php:62
+#, fuzzy
+msgid "Preload"
+msgstr "Презагрузка"
+
+#: wpv_common/shortcodes/generator/video.php:64
+#, fuzzy
+msgid "Select this if you want the video to start downloading as soon the user loads the page."
+msgstr "Выберите эту опцию, если вы хотите, чтобы видео начало загружатьсякак только пользователь начнет загружать страницу. "
+
+#: wpv_common/shortcodes/generator/video.php:69
+#, fuzzy
+msgid "Autoplay"
+msgstr "Автоплей"
+
+#: wpv_common/shortcodes/generator/video.php:71
+#, fuzzy
+msgid "Select this if you want the video to start playing as soon as the page is loaded."
+msgstr "Выберите эту опцию, если вы хотите, чтобы видео начало загружатьсякак только загрузиться страница. "
+
+#: wpv_common/shortcodes/generator/video.php:82
+#: wpv_common/shortcodes/generator/iframe.php:7
+#, fuzzy
+msgid "Src"
+msgstr "Src"
+
+#: wpv_common/shortcodes/generator/video.php:83
+#, fuzzy
+msgid "Specifies the location (URL) of the movie to be loaded"
+msgstr "Уточняет местоположение (URL) загружаемого видео"
+
+#: wpv_common/shortcodes/generator/video.php:90
+#: wpv_common/shortcodes/generator/video.php:135
+#: wpv_common/shortcodes/generator/video.php:165
+#: wpv_common/shortcodes/generator/video.php:202
+#: wpv_common/shortcodes/generator/styled_boxes.php:18
+#: wpv_common/shortcodes/generator/styled_boxes.php:109
+#: wpv_common/shortcodes/generator/lightbox.php:35
+#: wpv_common/shortcodes/generator/gmap.php:7
+#: wpv_common/shortcodes/generator/image.php:46
+#, fuzzy
+msgid "Width (optional)"
+msgstr "Ширина (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/video.php:99
+#: wpv_common/shortcodes/generator/video.php:144
+#: wpv_common/shortcodes/generator/video.php:174
+#: wpv_common/shortcodes/generator/video.php:211
+#: wpv_common/shortcodes/generator/styled_boxes.php:27
+#: wpv_common/shortcodes/generator/lightbox.php:43
+#: wpv_common/shortcodes/generator/image.php:55
+#, fuzzy
+msgid "Height (optional)"
+msgstr "Высота (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/video.php:108
+#, fuzzy
+msgid "Play"
+msgstr "Играть"
+
+#: wpv_common/shortcodes/generator/video.php:110
+#, fuzzy
+msgid "Specifies whether the movie begins playing immediately on loading in the browser."
+msgstr "Уточняет начинает ли видео играть сразу после загрузки вбраузере."
+
+#: wpv_common/shortcodes/generator/video.php:115
+#, fuzzy
+msgid "flashvars (optional)"
+msgstr "flashvar (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/video.php:116
+#, fuzzy
+msgid "variable to pass to Flash Player."
+msgstr "переменная для передачи Flash Player"
+
+#: wpv_common/shortcodes/generator/video.php:129
+#: wpv_common/shortcodes/generator/video.php:159
+#: wpv_common/shortcodes/generator/video.php:196
+#, fuzzy
+msgid "Video url"
+msgstr "Видео url"
+
+#: wpv_common/shortcodes/generator/video.php:183
+#: wpv_common/shortcodes/generator/lightbox.php:71
+#, fuzzy
+msgid "Inline"
+msgstr "В линии"
+
+#: wpv_common/shortcodes/generator/video.php:185
+#, fuzzy
+msgid "Whether to display title on video."
+msgstr "Показывать ли название на видео"
+
+#: wpv_common/shortcodes/generator/tooltip.php:7
+#, fuzzy
+msgid "Tooltip content"
+msgstr "Содержание Тултипа – (строка подсказка)"
+
+#: wpv_common/shortcodes/generator/tooltip.php:13
+#, fuzzy
+msgid "Tooltip trigger"
+msgstr "Триггер тултипа"
+
+#: wpv_common/shortcodes/generator/divider.php:3
+#, fuzzy
+msgid "Divider"
+msgstr "Разделитель"
+
+#: wpv_common/shortcodes/generator/divider.php:11
+#, fuzzy
+msgid "Divider Line (1)"
+msgstr "Линия Разделителя (1)"
+
+#: wpv_common/shortcodes/generator/divider.php:12
+#, fuzzy
+msgid "Divider Line (2)"
+msgstr " Линия Разделителя (2)"
+
+#: wpv_common/shortcodes/generator/divider.php:13
+#, fuzzy
+msgid "Divider Line (3)"
+msgstr " Линия Разделителя (3)"
+
+#: wpv_common/shortcodes/generator/divider.php:14
+#, fuzzy
+msgid "Clear Both"
+msgstr "Очистить оба"
+
+#: wpv_common/shortcodes/generator/sitemap.php:12
+#, fuzzy
+msgid "Column"
+msgstr "Столбик"
+
+#: wpv_common/shortcodes/generator/sitemap.php:16
+#: wpv_common/shortcodes/generator/sitemap.php:36
+#: wpv_common/shortcodes/sitemap.php:150
+#, fuzzy
+msgid "Pages"
+msgstr "Страницы"
+
+#: wpv_common/shortcodes/generator/sitemap.php:19
+#: wpv_common/shortcodes/generator/sitemap.php:140
+#: wpv_common/shortcodes/sitemap.php:153
+#, fuzzy
+msgid "Portfolios"
+msgstr "Портфолио"
+
+#: wpv_common/shortcodes/generator/sitemap.php:24
+#: wpv_common/shortcodes/generator/sitemap.php:50
+#: wpv_common/shortcodes/generator/sitemap.php:90
+#: wpv_common/shortcodes/generator/sitemap.php:113
+#: wpv_common/shortcodes/generator/sitemap.php:151
+#, fuzzy
+msgid "number"
+msgstr "номер"
+
+#: wpv_common/shortcodes/generator/sitemap.php:25
+#: wpv_common/shortcodes/generator/sitemap.php:51
+#: wpv_common/shortcodes/generator/sitemap.php:114
+#: wpv_common/shortcodes/generator/sitemap.php:152
+#, fuzzy
+msgid "Sets the number of Pages to display.<br> 0: Display all Pages."
+msgstr "Определяет номер Страниц для отображения. <br> 0: Отображать все Страницы"
+
+#: wpv_common/shortcodes/generator/sitemap.php:40
+#: wpv_common/shortcodes/generator/sitemap.php:80
+#, fuzzy
+msgid "depth"
+msgstr "глубина"
+
+#: wpv_common/shortcodes/generator/sitemap.php:41
+#, fuzzy
+msgid "This parameter controls how many levels in the hierarchy of Pages are to be included. <br> 0: Displays pages at any depth and arranges them hierarchically in nested lists<br> -1: Displays pages at any depth and arranges them in a single, flat list<br> 1: Displays top-level Pages only<br> 2, 3 … Displays Pages to the given depth"
+msgstr "Этот параметр контролирует количество уровней иерархии страницы<br> 0: Отображает страницы и расставляет их в один список <br> 1: Отображаеттолько верхние страницы <br> 2,3 ... Отображает страницы до определенной глубины"
+
+#: wpv_common/shortcodes/generator/sitemap.php:66
+#, fuzzy
+msgid "Show Count"
+msgstr "Показать Счетчик"
+
+#: wpv_common/shortcodes/generator/sitemap.php:68
+#, fuzzy
+msgid "Toggles the display of the current count of posts in each category."
+msgstr "Переключает дисплей текущего счетчика постов в каждой категории."
+
+#: wpv_common/shortcodes/generator/sitemap.php:73
+#, fuzzy
+msgid "Show Feed"
+msgstr "Показать загрузку"
+
+#: wpv_common/shortcodes/generator/sitemap.php:75
+#, fuzzy
+msgid "Display a link to each category's <a href='http://codex.wordpress.org/Glossary#RSS' target='_blank'>rss-2</a> feed."
+msgstr "Отображать ссылку на загрузку каждой категории<a href='http://codex.wordpress.org/Glossary#RSS' target='_blank'>rss-2</a>"
+
+#: wpv_common/shortcodes/generator/sitemap.php:81
+#, fuzzy
+msgid "This parameter controls how many levels in the hierarchy of Categories are to be included. <br> 0: Displays pages at any depth and arranges them hierarchically in nested lists<br> -1: Displays pages at any depth and arranges them in a single, flat list<br> 1: Displays top-level Pages only<br> 2, 3 … Displays Pages to the given depth"
+msgstr "Этот параметр контролирует количество уровней в иерархииКптегорий. <br> 0: Отображение страниц на любом уровне ирасставление их в один список <br> 1: Отображает Страницы на верхнем уровне<br> 2, 3 … Отображает Страницы до определенного уровня. "
+
+#: wpv_common/shortcodes/generator/sitemap.php:91
+#, fuzzy
+msgid "Sets the number of Categories to display.<br> 0: Display all Categories."
+msgstr "Устанавливает количество отображаемых Категорий. <br> 0: Отображение всех Категорий. "
+
+#: wpv_common/shortcodes/generator/sitemap.php:106
+#: wpv_common/shortcodes/generator/sitemap.php:144
+#, fuzzy
+msgid "Show Comment"
+msgstr "Показать Комментарий"
+
+#: wpv_common/shortcodes/generator/sitemap.php:108
+#: wpv_common/shortcodes/generator/sitemap.php:146
+msgid " "
+msgstr ""
+
+#: wpv_common/shortcodes/generator/sitemap.php:131
+#, fuzzy
+msgid "The specific posts you want to display"
+msgstr "Определенные посты, которые вы хотите отображать"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:3
+#, fuzzy
+msgid "Styled Boxes"
+msgstr "Стилированные блоки"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:8
+#, fuzzy
+msgid "Framed Box"
+msgstr "Блок заключенный в рамку"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:42
+#, fuzzy
+msgid "Text Color (optional)"
+msgstr "Цвет текста (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:48
+#, fuzzy
+msgid "Rounded"
+msgstr "Округленный"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:56
+#, fuzzy
+msgid "Message Boxes"
+msgstr "Блоки сообщений"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:64
+#, fuzzy
+msgid "Info"
+msgstr "Информация"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:65
+#, fuzzy
+msgid "Success"
+msgstr "Успешно"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:66
+#, fuzzy
+msgid "Error"
+msgstr "Ошибка"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:67
+#, fuzzy
+msgid "Notice"
+msgstr "Замечание"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:80
+#, fuzzy
+msgid "Note Box"
+msgstr "Поле для замечаний"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:84
+#, fuzzy
+msgid "Title (optional)"
+msgstr "Заглавие (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:97
+#, fuzzy
+msgid "You may not see the results in the preview if it is too narrow"
+msgstr "Вы можете не видеть результатов в предпросмотре, если поле слишком узкое"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:102
+#, fuzzy
+msgid "left"
+msgstr "слева"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:103
+#, fuzzy
+msgid "right"
+msgstr "справа"
+
+#: wpv_common/shortcodes/generator/styled_boxes.php:104
+#, fuzzy
+msgid "center"
+msgstr "центр"
+
+#: wpv_common/shortcodes/generator/lightbox.php:13
+#, fuzzy
+msgid "Href"
+msgstr "Href"
+
+#: wpv_common/shortcodes/generator/lightbox.php:21
+#, fuzzy
+msgid "The title you want to display on the bottom of the lightbox."
+msgstr "Заглавие, которое вы хотите отображать находится внизу лайтбокс"
+
+#: wpv_common/shortcodes/generator/lightbox.php:28
+#, fuzzy
+msgid "Group (optional)"
+msgstr "Группа (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/lightbox.php:29
+#, fuzzy
+msgid "This allows the user to group any combination of elements together for a gallery."
+msgstr "Это позволит пользователю группировать любую комбинациюэлементов для галереи."
+
+#: wpv_common/shortcodes/generator/lightbox.php:36
+#, fuzzy
+msgid "Set a width. Example: '100%', '500px', or 500"
+msgstr "Определить ширину. Например: ‘100%’, ‘500px’, или 500"
+
+#: wpv_common/shortcodes/generator/lightbox.php:44
+#, fuzzy
+msgid "Set a height. Example: '100%', '500px', or 500"
+msgstr "Определить высоту. Например: ‘100%’, ‘500px’, или 500"
+
+#: wpv_common/shortcodes/generator/lightbox.php:51
+#, fuzzy
+msgid "CSS class (optional)"
+msgstr "Класс ссылки (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/lightbox.php:57
+#: wpv_common/shortcodes/generator/iframe.php:3
+#, fuzzy
+msgid "Iframe"
+msgstr "Iframe "
+
+#: wpv_common/shortcodes/generator/lightbox.php:59
+#, fuzzy
+msgid "If 'true' specifies that content should be displayed in an iFrame."
+msgstr "Если 'true' определяет, что содержание должно отображаться в iFrame."
+
+#: wpv_common/shortcodes/generator/lightbox.php:64
+#, fuzzy
+msgid "Photo"
+msgstr "Фото"
+
+#: wpv_common/shortcodes/generator/lightbox.php:66
+#, fuzzy
+msgid "If true, this setting forces Lightbox to display a link as a photo. Use this when automatic photo detection fails (such as using a url like 'photo.php' instead of 'photo.jpg', 'photo.jpg#1', or 'photo.jpg?pic=1')"
+msgstr "Если так, то эти настройки заставляют Лайтбокс отображать ссылку как фото.Используйте это, когда автоматическое отображение фото не работает (например,  url такие как 'photo.php' вместо 'photo.jpg', 'photo.jpg#1' или 'photo.jpg?pic=1')"
+
+#: wpv_common/shortcodes/generator/lightbox.php:73
+#, fuzzy
+msgid "If 'true' lightbox can be used to display content from the inline html. "
+msgstr "Если 'true' лайтбокс может быть использован для отображения содержанияиз соответствующего html. "
+
+#: wpv_common/shortcodes/generator/lightbox.php:78
+#, fuzzy
+msgid "Inline Id"
+msgstr "Соответствующее ID"
+
+#: wpv_common/shortcodes/generator/lightbox.php:79
+#, fuzzy
+msgid "unique id for inline content."
+msgstr "уникальное ID для соответствующего содержания"
+
+#: wpv_common/shortcodes/generator/lightbox.php:85
+#, fuzzy
+msgid "Inline Html"
+msgstr "Соответствующее Html"
+
+#: wpv_common/shortcodes/generator/lightbox.php:86
+#, fuzzy
+msgid "You can use shortcode here."
+msgstr "Тут вы можете использовать короткий код."
+
+#: wpv_common/shortcodes/generator/lightbox.php:92
+#, fuzzy
+msgid "Display Close Button"
+msgstr "Отображать Кнопку Закрыть"
+
+#: wpv_common/shortcodes/generator/tabs.php:3
+#, fuzzy
+msgid "Tabs"
+msgstr "Вкладки"
+
+#: wpv_common/shortcodes/generator/tabs.php:7
+#, fuzzy
+msgid "Number of tabs"
+msgstr "Количество вкладок"
+
+#: wpv_common/shortcodes/generator/tabs.php:22
+#, fuzzy
+msgid "With background"
+msgstr "С фоном"
+
+#: wpv_common/shortcodes/generator/tabs.php:26
+#, fuzzy
+msgid "Autorotate delay (in ms)"
+msgstr "Задержка автоповорота (в мс)"
+
+#: wpv_common/shortcodes/generator/tabs.php:27
+#, fuzzy
+msgid "Set to 0 for manual rotation"
+msgstr "Поставить на 0 для ручного поворота"
+
+#: wpv_common/shortcodes/generator/tabs.php:36
+#, fuzzy
+msgid "Vertical tabs"
+msgstr "Вертикальные вкладки"
+
+#: wpv_common/shortcodes/generator/tabs.php:42
+#: wpv_common/shortcodes/generator/tabs.php:54
+#: wpv_common/shortcodes/generator/tabs.php:66
+#: wpv_common/shortcodes/generator/tabs.php:78
+#: wpv_common/shortcodes/generator/tabs.php:90
+#: wpv_common/shortcodes/generator/tabs.php:102
+#: wpv_common/shortcodes/generator/tabs.php:114
+#: wpv_common/shortcodes/generator/tabs.php:126
+#, fuzzy
+msgid "Tab %d Title"
+msgstr "Заглавие Вкладки %d"
+
+#: wpv_common/shortcodes/generator/tabs.php:48
+#: wpv_common/shortcodes/generator/tabs.php:60
+#: wpv_common/shortcodes/generator/tabs.php:72
+#: wpv_common/shortcodes/generator/tabs.php:84
+#: wpv_common/shortcodes/generator/tabs.php:96
+#: wpv_common/shortcodes/generator/tabs.php:108
+#: wpv_common/shortcodes/generator/tabs.php:120
+#: wpv_common/shortcodes/generator/tabs.php:132
+#, fuzzy
+msgid "Tab %d Content"
+msgstr "Вкладка %d Сожержание"
+
+#: wpv_common/shortcodes/generator/widget.php:3
+#, fuzzy
+msgid "Widget"
+msgstr "Графический Элемент"
+
+#: wpv_common/shortcodes/generator/widget.php:8
+#, fuzzy
+msgid "Contact Form"
+msgstr "Контактная Форма"
+
+#: wpv_common/shortcodes/generator/widget.php:12
+#: wpv_common/shortcodes/generator/widget.php:146
+#, fuzzy
+msgid "email"
+msgstr "email "
+
+#: wpv_common/shortcodes/generator/widget.php:18
+#, fuzzy
+msgid "Success Text"
+msgstr "Успешный Текст"
+
+#: wpv_common/shortcodes/generator/widget.php:26
+#: wpv_common/widgets/tpl/posts-config.php:38
+#, fuzzy
+msgid "Twitter"
+msgstr "Твиттер"
+
+#: wpv_common/shortcodes/generator/widget.php:30
+#, fuzzy
+msgid "Username"
+msgstr "Логин"
+
+#: wpv_common/shortcodes/generator/widget.php:31
+#, fuzzy
+msgid "Use ',' separate multi user.<br> (e.g <code>user1,user2</code>)"
+msgstr "Используйте запятую для разделения пользователей.<br> (<code>user1,user2</code>) "
+
+#: wpv_common/shortcodes/generator/widget.php:47
+#, fuzzy
+msgid "Avatar Size (optional)"
+msgstr "Размер аватара (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/widget.php:48
+#, fuzzy
+msgid "Height and width of avatar if displayed"
+msgstr "Высота и ширина аватара если отображается"
+
+#: wpv_common/shortcodes/generator/widget.php:57
+#, fuzzy
+msgid "Query (optional)"
+msgstr "Запрос (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/widget.php:58
+#, fuzzy
+msgid "uses <a href='http://apiwiki.twitter.com/Twitter-Search-API-Method%3A-search' target='_blank'>Twitter's Search API</a>, so you can display any tweets you like."
+msgstr "использование <a href='http://apiwiki.twitter.com/Twitter-Search-API-Method%3A- search' target='_blank'> Твиттер Поиск API </a>, так что вы можетеотображать любые твиты."
+
+#: wpv_common/shortcodes/generator/widget.php:66
+#, fuzzy
+msgid "Flickr"
+msgstr "Flickr "
+
+#: wpv_common/shortcodes/generator/widget.php:74
+#, fuzzy
+msgid "User"
+msgstr "Пользователь"
+
+#: wpv_common/shortcodes/generator/widget.php:80
+#, fuzzy
+msgid "Flickr id (<a href='http://idgettr.com/' target='_blank'>idGettr</a>)"
+msgstr "Flickr id (<a href='http://idgettr.com/' target='_blank'>idGettr</a>)"
+
+#: wpv_common/shortcodes/generator/widget.php:96
+#, fuzzy
+msgid "Display"
+msgstr "Отображение"
+
+#: wpv_common/shortcodes/generator/widget.php:100
+#: wpv_common/widgets/tpl/flickr-config.php:27
+#, fuzzy
+msgid "Latest"
+msgstr "Последнее"
+
+#: wpv_common/shortcodes/generator/widget.php:101
+#: wpv_common/widgets/tpl/flickr-config.php:28
+#: wpv_common/helpers/base.php:47
+#, fuzzy
+msgid "Random"
+msgstr "Случайно"
+
+#: wpv_common/shortcodes/generator/widget.php:108
+#, fuzzy
+msgid "Contact Info"
+msgstr "Контактная Информация"
+
+#: wpv_common/shortcodes/generator/widget.php:132
+#: wpv_common/shortcodes/generator/team_member.php:31
+#, fuzzy
+msgid "Phone"
+msgstr "Телефон"
+
+#: wpv_common/shortcodes/generator/widget.php:139
+#, fuzzy
+msgid "Cell Phone"
+msgstr "Мобильный Телефон"
+
+#: wpv_common/shortcodes/generator/widget.php:152
+#, fuzzy
+msgid "Address"
+msgstr "Адрес"
+
+#: wpv_common/shortcodes/generator/widget.php:159
+#, fuzzy
+msgid "City"
+msgstr "Город"
+
+#: wpv_common/shortcodes/generator/widget.php:166
+#, fuzzy
+msgid "State"
+msgstr "Штат"
+
+#: wpv_common/shortcodes/generator/widget.php:173
+#, fuzzy
+msgid "Zip"
+msgstr "Почтовый Код"
+
+#: wpv_common/shortcodes/generator/widget.php:180
+#: wpv_common/shortcodes/generator/team_member.php:7
+#: comments.php:78
+#: comments.php:79
+#, fuzzy
+msgid "Name"
+msgstr "Имя"
+
+#: wpv_common/shortcodes/generator/gmap.php:3
+#, fuzzy
+msgid "Google Map"
+msgstr "Google Карты "
+
+#: wpv_common/shortcodes/generator/gmap.php:8
+#, fuzzy
+msgid "set to 0 is the full width"
+msgstr "поставлено 0 для полной ширины"
+
+#: wpv_common/shortcodes/generator/gmap.php:26
+#, fuzzy
+msgid "Address (optional)"
+msgstr "Адрес (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/gmap.php:33
+#, fuzzy
+msgid "Latitude"
+msgstr "Широта"
+
+#: wpv_common/shortcodes/generator/gmap.php:40
+#, fuzzy
+msgid "longitude"
+msgstr "долгота"
+
+#: wpv_common/shortcodes/generator/gmap.php:47
+#, fuzzy
+msgid "Zoom"
+msgstr "Увеличение"
+
+#: wpv_common/shortcodes/generator/gmap.php:56
+#, fuzzy
+msgid "Marker"
+msgstr "Маркер"
+
+#: wpv_common/shortcodes/generator/gmap.php:62
+#, fuzzy
+msgid "Html"
+msgstr "Html "
+
+#: wpv_common/shortcodes/generator/gmap.php:69
+#, fuzzy
+msgid "Popup Marker"
+msgstr "Высвечивающийся Маркер"
+
+#: wpv_common/shortcodes/generator/gmap.php:75
+#, fuzzy
+msgid "Controls (optional)"
+msgstr "Управление"
+
+#: wpv_common/shortcodes/generator/gmap.php:82
+#, fuzzy
+msgid "Scrollwheel"
+msgstr "Прокрутка колесиком"
+
+#: wpv_common/shortcodes/generator/gmap.php:88
+#, fuzzy
+msgid "Maptype (optional)"
+msgstr "Тип карты (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/gmap.php:93
+#, fuzzy
+msgid "Default road map"
+msgstr "Дорожная карта по умолчанию"
+
+#: wpv_common/shortcodes/generator/gmap.php:94
+#, fuzzy
+msgid "Google Earth satellite"
+msgstr "Спутник Google Земля"
+
+#: wpv_common/shortcodes/generator/gmap.php:95
+#, fuzzy
+msgid "Mixture of normal and satellite"
+msgstr "Комбинация нормы и спутника"
+
+#: wpv_common/shortcodes/generator/gmap.php:96
+#, fuzzy
+msgid "Physical map"
+msgstr "Физическая карта"
+
+#: wpv_common/shortcodes/generator/slider.php:38
+#, fuzzy
+msgid "If you set it to 0 the slider will be as high as the highest slide"
+msgstr "Если вы установите значение 0, то слайдер будет на высоте самоговысокого слайда"
+
+#: wpv_common/shortcodes/generator/slider.php:46
+#, fuzzy
+msgid "Caption opacity"
+msgstr "Вместимость Заглавия"
+
+#: wpv_common/shortcodes/generator/team_member.php:3
+#, fuzzy
+msgid "Team member"
+msgstr "Член команды"
+
+#: wpv_common/shortcodes/generator/team_member.php:13
+#, fuzzy
+msgid "Position"
+msgstr "Позиция"
+
+#: wpv_common/shortcodes/generator/team_member.php:37
+#, fuzzy
+msgid "Picture url"
+msgstr "url изображения"
+
+#: wpv_common/shortcodes/generator/services_expandable.php:3
+msgid "Expandable services"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services_expandable.php:20
+msgid "Put <strong>%s</strong> where you want the open state to start"
+msgstr ""
+
+#: wpv_common/shortcodes/generator/services_expandable.php:37
+#: wpv_common/shortcodes/generator/services.php:85
+#, fuzzy
+msgid "Class"
+msgstr "Класс"
+
+#: wpv_common/shortcodes/generator/services.php:3
+#, fuzzy
+msgid "Services"
+msgstr "Сервис"
+
+#: wpv_common/shortcodes/generator/services.php:65
+#, fuzzy
+msgid "Description size"
+msgstr "Размер описания"
+
+#: wpv_common/shortcodes/generator/services.php:73
+#, fuzzy
+msgid "Use a link instead of a button"
+msgstr "Использовать ссылку вместо кнопки"
+
+#: wpv_common/shortcodes/generator/services.php:79
+#, fuzzy
+msgid "Use full width image"
+msgstr "Использовать поноразмерное изображение"
+
+#: wpv_common/shortcodes/generator/iframe.php:15
+#, fuzzy
+msgid "You can use % or px as units for width"
+msgstr "Вы можете использовать % или px юниты для ширины "
+
+#: wpv_common/shortcodes/generator/iframe.php:23
+#, fuzzy
+msgid "You can use % or px as units for height"
+msgstr "Вы можете использовать % или px для высоты"
+
+#: wpv_common/shortcodes/generator/outer_text_divider.php:3
+#, fuzzy
+msgid "Outer text divider"
+msgstr "Цвет текста подменю"
+
+#: wpv_common/shortcodes/generator/image.php:7
+#, fuzzy
+msgid "Image Source Url"
+msgstr "Url Источника Изображения"
+
+#: wpv_common/shortcodes/generator/image.php:8
+#, fuzzy
+msgid "Please use one of: jpg, png, bmp, gif"
+msgstr "Пожалуйста, используйте: jpg, png, bmp, gif"
+
+#: wpv_common/shortcodes/generator/image.php:15
+#, fuzzy
+msgid "Image Title (optional)"
+msgstr "Название Изображения (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/image.php:40
+#, fuzzy
+msgid "Lightbox group (optional)"
+msgstr "Лайтбокс группа (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/image.php:64
+#, fuzzy
+msgid "Auto adjust Height"
+msgstr "Авто регуляция Высоты"
+
+#: wpv_common/shortcodes/generator/image.php:77
+#, fuzzy
+msgid "Link class (optional)"
+msgstr "Класс ссылки (по усмотрению)"
+
+#: wpv_common/shortcodes/generator/image.php:84
+#, fuzzy
+msgid "Frame"
+msgstr "Фрейм"
+
+#: wpv_common/shortcodes/generator/image.php:90
+#, fuzzy
+msgid "Underline"
+msgstr "Подчеркивание"
+
+#: wpv_common/shortcodes/video.php:69
+#, fuzzy
+msgid "No video playback capabilities."
+msgstr "Невозможно воспроизвести видео"
+
+#: wpv_common/shortcodes/sitemap.php:47
+#, fuzzy
+msgid "RSS"
+msgstr "RSS "
+
+#: wpv_common/shortcodes/sitemap.php:89
+#: wpv_common/shortcodes/sitemap.php:128
+#, fuzzy
+msgid "Permanent Link to %s"
+msgstr "Постоянная Ссылка на %s"
+
+#: wpv_common/shortcodes/sitemap.php:162
+#, fuzzy
+msgid "Top"
+msgstr "Верх"
+
+#: wpv_common/widgets/advertisement.php:14
+#, fuzzy
+msgid "Displays ads"
+msgstr "Отображение рекламы"
+
+#: wpv_common/widgets/advertisement.php:16
+#, fuzzy
+msgid "Vamtam - Advertisement"
+msgstr " Vamtam - Реклама"
+
+#: wpv_common/widgets/tpl/contactform-config.php:2
+#: wpv_common/widgets/tpl/twitter-config.php:2
+#: wpv_common/widgets/tpl/posts-config.php:2
+#: wpv_common/widgets/tpl/post-formats-config.php:2
+#: wpv_common/widgets/tpl/authors-config.php:2
+#: wpv_common/widgets/tpl/flickr-config.php:2
+#: wpv_common/widgets/tpl/icon-link-config.php:2
+#: wpv_common/widgets/tpl/advertisement-config.php:2
+#: wpv_common/widgets/tpl/social-config.php:2
+#: wpv_common/widgets/tpl/gmap-config.php:2
+#: wpv_common/widgets/tpl/subpages-config.php:2
+#: wpv_common/widgets/contactinfo.php:14
+#, fuzzy
+msgid "Title:"
+msgstr "Заглавие:"
+
+#: wpv_common/widgets/tpl/contactform-config.php:7
+#, fuzzy
+msgid "Send emails to:"
+msgstr "Отправить email на:"
+
+#: wpv_common/widgets/tpl/twitter-config.php:7
+#: wpv_common/widgets/tpl/posts-config.php:41
+#, fuzzy
+msgid "Usernames (separate with comas):"
+msgstr "Имя пользователя (разделить запятыми):"
+
+#: wpv_common/widgets/tpl/twitter-config.php:12
+#, fuzzy
+msgid "height and width of avatar if displayed (48px max)(optional)"
+msgstr "высота и ширина аватара если отображается макс.48px (по усмотрению) "
+
+#: wpv_common/widgets/tpl/twitter-config.php:17
+#, fuzzy
+msgid "How many tweets to display?"
+msgstr "Сколько твитов отображается?"
+
+#: wpv_common/widgets/tpl/twitter-config.php:22
+#: wpv_common/widgets/tpl/posts-config.php:46
+#, fuzzy
+msgid "Query (optional):"
+msgstr "Запрос (по усмотрению):"
+
+#: wpv_common/widgets/tpl/twitter-config.php:27
+#: wpv_common/widgets/tpl/posts-config.php:51
+#, fuzzy
+msgid "Query uses <a href='http://apiwiki.twitter.com/Twitter-Search-API-Method%3A-search' target='_blank'>Twitter's Search API</a>, so you can display any tweets you like."
+msgstr "Запрос <a href='http://apiwiki.twitter.com/Twitter-Search-API-Method%3A- search' target='_blank'> Твиттер Поиск API</a>, вы можете отображать любые твиты"
+
+#: wpv_common/widgets/tpl/posts-config.php:7
+#, fuzzy
+msgid "Display:"
+msgstr "Отображение:"
+
+#: wpv_common/widgets/tpl/posts-config.php:9
+#, fuzzy
+msgid "Popular posts"
+msgstr "Популярные посты"
+
+#: wpv_common/widgets/tpl/posts-config.php:10
+#, fuzzy
+msgid "Recent posts"
+msgstr "Недавние посты"
+
+#: wpv_common/widgets/tpl/posts-config.php:11
+#, fuzzy
+msgid "Recent Comments"
+msgstr "Недавние Комментарии"
+
+#: wpv_common/widgets/tpl/posts-config.php:12
+#: wpv_common/widgets/posts.php:92
+#, fuzzy
+msgid "Tweets"
+msgstr "Последние Твиты"
+
+#: wpv_common/widgets/tpl/posts-config.php:13
+#: wpv_common/widgets/tpl/posts-config.php:54
+#: wpv_common/widgets/posts.php:94
+msgid "Tags"
+msgstr ""
+
+#: wpv_common/widgets/tpl/posts-config.php:17
+#, fuzzy
+msgid "Posts / Comments / Tweets"
+msgstr " Vamtam –Посты,Комментарии"
+
+#: wpv_common/widgets/tpl/posts-config.php:20
+#, fuzzy
+msgid "Number of items:"
+msgstr "Количество панелей"
+
+#: wpv_common/widgets/tpl/posts-config.php:26
+#, fuzzy
+msgid "Disable Thumbnails?"
+msgstr "Отключить автостарт"
+
+#: wpv_common/widgets/tpl/posts-config.php:30
+#: single-inner.php:87
+#, fuzzy
+msgid "Categories:"
+msgstr "Категории:"
+
+#: wpv_common/widgets/tpl/posts-config.php:57
+msgid "Taxonomy:"
+msgstr ""
+
+#: wpv_common/widgets/tpl/contactform-widget.php:15
+#: wpv_common/widgets/tpl/contactform-widget.php:16
+#, fuzzy
+msgid "Name (required)"
+msgstr "Имя (обязательно)"
+
+#: wpv_common/widgets/tpl/contactform-widget.php:20
+#: wpv_common/widgets/tpl/contactform-widget.php:21
+#, fuzzy
+msgid "Email (required)"
+msgstr " Email (обязательно)"
+
+#: wpv_common/widgets/tpl/post-formats-config.php:7
+#, fuzzy
+msgid "Tooltip:"
+msgstr "Тултип:"
+
+#: wpv_common/widgets/tpl/contactinfo-config.php:2
+#, fuzzy
+msgid "Icons Color:"
+msgstr "Цвет иконок:"
+
+#: wpv_common/widgets/tpl/post-formats-widget.php:2
+#, fuzzy
+msgid "Standard"
+msgstr "Стандарт"
+
+#: wpv_common/widgets/tpl/post-formats-widget.php:4
+#, fuzzy
+msgid "View all %format posts"
+msgstr "Посмотреть все % форматы постов "
+
+#: wpv_common/widgets/tpl/authors-config.php:7
+#, fuzzy
+msgid "How many authors to display?"
+msgstr "Сколько авторов отображать?"
+
+#: wpv_common/widgets/tpl/authors-config.php:24
+#, fuzzy
+msgid "Author:"
+msgstr "Автор:"
+
+#: wpv_common/widgets/tpl/authors-config.php:35
+#, fuzzy
+msgid "Author Description (optional):"
+msgstr "Описание Автора (по усмотрению)"
+
+#: wpv_common/widgets/tpl/posts-widget.php:35
+#, fuzzy
+msgid "on"
+msgstr "включено"
+
+#: wpv_common/widgets/tpl/flickr-config.php:7
+#, fuzzy
+msgid "Type:"
+msgstr "Тип:"
+
+#: wpv_common/widgets/tpl/flickr-config.php:15
+#, fuzzy
+msgid "Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+msgstr " Flickr ID (<a href=\"http://www.idgettr.com\" target=\"_blank\">idGettr</a>):"
+
+#: wpv_common/widgets/tpl/flickr-config.php:20
+#, fuzzy
+msgid "Number of photo to show:"
+msgstr "Количество отображаемых фото:"
+
+#: wpv_common/widgets/tpl/flickr-config.php:25
+#, fuzzy
+msgid "Method for display your photos:"
+msgstr "Метод отображения фото:"
+
+#: wpv_common/widgets/tpl/advertisement-widget.php:13
+#, fuzzy
+msgid "Advertisment"
+msgstr "Реклама"
+
+#: wpv_common/widgets/tpl/advertisement-widget.php:14
+#, fuzzy
+msgid "Advertisement"
+msgstr "Реклама"
+
+#: wpv_common/widgets/tpl/icon-link-config.php:7
+#, fuzzy
+msgid "How many links to show?"
+msgstr "Сколько твитов отображается?"
+
+#: wpv_common/widgets/tpl/icon-link-config.php:24
+#: wpv_common/widgets/tpl/social-config.php:71
+#: wpv_common/widgets/contactinfo.php:23
+#, fuzzy
+msgid "Name:"
+msgstr "Имя:"
+
+#: wpv_common/widgets/tpl/icon-link-config.php:29
+#: wpv_common/widgets/tpl/social-config.php:47
+#: wpv_common/widgets/tpl/social-config.php:76
+#, fuzzy
+msgid "URL:"
+msgstr "URL:"
+
+#: wpv_common/widgets/tpl/icon-link-config.php:34
+#: wpv_common/widgets/tpl/social-config.php:81
+#, fuzzy
+msgid "Icon:"
+msgstr "Иконка:"
+
+#: wpv_common/widgets/tpl/advertisement-config.php:7
+#, fuzzy
+msgid "How many ad spots to display?"
+msgstr "Сколько мест рекламы отображать?"
+
+#: wpv_common/widgets/tpl/advertisement-config.php:16
+msgid "Note: Please input <strong>full url</strong> <br/> (e.g. <code>http://example.com</code>)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/advertisement-config.php:27
+#, fuzzy
+msgid "Image URL:"
+msgstr "URL на изображение"
+
+#: wpv_common/widgets/tpl/advertisement-config.php:31
+#, fuzzy
+msgid "Link:"
+msgstr "Ссылка:"
+
+#: wpv_common/widgets/tpl/social-config.php:7
+#, fuzzy
+msgid "Icon Alt Title:"
+msgstr "Иконка Изменение Названия:"
+
+#: wpv_common/widgets/tpl/social-config.php:12
+#, fuzzy
+msgid "Icon Package:"
+msgstr "Пакет Иконки:"
+
+#: wpv_common/widgets/tpl/social-config.php:21
+#, fuzzy
+msgid "Icon Hover Animation:"
+msgstr "Анимация Иконки при наведении курсора"
+
+#: wpv_common/widgets/tpl/social-config.php:23
+#, fuzzy
+msgid "Fade"
+msgstr "Увядание"
+
+#: wpv_common/widgets/tpl/social-config.php:24
+#, fuzzy
+msgid "Scale"
+msgstr "Масштаб"
+
+#: wpv_common/widgets/tpl/social-config.php:25
+#, fuzzy
+msgid "Bounce"
+msgstr "Отскок"
+
+#: wpv_common/widgets/tpl/social-config.php:26
+#, fuzzy
+msgid "Combo"
+msgstr "Комбо"
+
+#: wpv_common/widgets/tpl/social-config.php:31
+#, fuzzy
+msgid "Enable Social Icon:"
+msgstr "Активировать Социальную Иконку"
+
+#: wpv_common/widgets/tpl/social-config.php:41
+msgid "Note: Please input FULL URL <br/>(e.g. <code>http://example.com</code>)"
+msgstr ""
+
+#: wpv_common/widgets/tpl/social-config.php:54
+#, fuzzy
+msgid "How many custom icons to add?"
+msgstr "Сколько добавлять иконок?"
+
+#: wpv_common/widgets/tpl/gmap-config.php:7
+#: wpv_common/widgets/contactinfo.php:19
+#, fuzzy
+msgid "Address:"
+msgstr "Адрес:"
+
+#: wpv_common/widgets/tpl/gmap-config.php:9
+#, fuzzy
+msgid "Choose either an address or latitute and logtitude"
+msgstr "Выберите адрес или широту или долготу"
+
+#: wpv_common/widgets/tpl/gmap-config.php:13
+#, fuzzy
+msgid "Latitude:"
+msgstr "Широта"
+
+#: wpv_common/widgets/tpl/gmap-config.php:18
+#, fuzzy
+msgid "Longitude:"
+msgstr "Долгота"
+
+#: wpv_common/widgets/tpl/gmap-config.php:23
+#, fuzzy
+msgid "Zoom level:"
+msgstr "Степень увеличения:"
+
+#: wpv_common/widgets/tpl/gmap-config.php:32
+#, fuzzy
+msgid "Content for the marker:"
+msgstr "Содержание для маркера:"
+
+#: wpv_common/widgets/tpl/gmap-config.php:38
+#, fuzzy
+msgid "Auto popup the info?"
+msgstr "Авто отображение информации"
+
+#: wpv_common/widgets/tpl/gmap-config.php:42
+#, fuzzy
+msgid "Height:"
+msgstr "Высота:"
+
+#: wpv_common/widgets/tpl/subpages-config.php:7
+#, fuzzy
+msgid "Sort by:"
+msgstr "Сортировать:"
+
+#: wpv_common/widgets/tpl/subpages-config.php:9
+#, fuzzy
+msgid "Page order"
+msgstr "Порядок страниц"
+
+#: wpv_common/widgets/tpl/subpages-config.php:10
+#, fuzzy
+msgid "Page title"
+msgstr "Заглавие страницы"
+
+#: wpv_common/widgets/tpl/subpages-config.php:11
+#, fuzzy
+msgid "Page ID"
+msgstr "ID Страницы"
+
+#: wpv_common/widgets/tpl/subpages-config.php:16
+#, fuzzy
+msgid "Exclude:"
+msgstr "Исключить"
+
+#: wpv_common/widgets/tpl/subpages-config.php:19
+#, fuzzy
+msgid "Page IDs, separated by commas."
+msgstr "ID страниц, разделенные запятыми."
+
+#: wpv_common/widgets/contactform.php:11
+#, fuzzy
+msgid "Displays a email contact form."
+msgstr "Отображение контактной email формы"
+
+#: wpv_common/widgets/contactform.php:13
+#, fuzzy
+msgid "Vamtam - Contact Form"
+msgstr " Vamtam  - Контактная Форма"
+
+#: wpv_common/widgets/contactform.php:18
+#, fuzzy
+msgid "Email Us"
+msgstr "Напишите нам электронное письмо"
+
+#: wpv_common/widgets/social.php:33
+#, fuzzy
+msgid "Displays a list of Social Icon icons"
+msgstr "Отображение списка Социальных Иконок"
+
+#: wpv_common/widgets/social.php:35
+#, fuzzy
+msgid "Vamtam - Social Icons"
+msgstr " Vamtam  - Социальные Иконки"
+
+#: wpv_common/widgets/post-formats.php:8
+#, fuzzy
+msgid "A list or dropdown of Post Formats"
+msgstr "Список Форматов Поста"
+
+#: wpv_common/widgets/post-formats.php:10
+#, fuzzy
+msgid "Vamtam - Post Formats"
+msgstr " Vamtam  - Форматы Поста"
+
+#: wpv_common/widgets/post-formats.php:16
+#, fuzzy
+msgid "Post Formats"
+msgstr " Форматы Поста "
+
+#: wpv_common/widgets/twitter.php:12
+#, fuzzy
+msgid "Displays a twitter feed"
+msgstr "Отображение твиттер постов"
+
+#: wpv_common/widgets/twitter.php:14
+#, fuzzy
+msgid "Vamtam - Twitter"
+msgstr "Vamtam - Twitter "
+
+#: wpv_common/widgets/twitter.php:19
+#, fuzzy
+msgid "Recent Tweets"
+msgstr "Последние Твиты"
+
+#: wpv_common/widgets/gmap.php:11
+#, fuzzy
+msgid "Displays a google map."
+msgstr "Отображение google карты"
+
+#: wpv_common/widgets/gmap.php:13
+#, fuzzy
+msgid "Vamtam - Gmap"
+msgstr " Vamtam  - Google карты "
+
+#: wpv_common/widgets/authors.php:14
+#, fuzzy
+msgid "List of authors and their descriptions"
+msgstr "Список авторов и их описание"
+
+#: wpv_common/widgets/authors.php:16
+#, fuzzy
+msgid "Vamtam - Authors"
+msgstr " Vamtam -Авторы"
+
+#: wpv_common/widgets/authors.php:21
+#, fuzzy
+msgid "Authors"
+msgstr "Авторы"
+
+#: wpv_common/widgets/contactinfo.php:9
+#, fuzzy
+msgid "Display contact information."
+msgstr "Отобразить контактную информацию."
+
+#: wpv_common/widgets/contactinfo.php:11
+#, fuzzy
+msgid "Vamtam - Contact Info"
+msgstr " Vamtam – Контактная Информация"
+
+#: wpv_common/widgets/contactinfo.php:15
+#, fuzzy
+msgid "Introduction text:"
+msgstr "Текст вступления:"
+
+#: wpv_common/widgets/contactinfo.php:16
+#, fuzzy
+msgid "Phone:"
+msgstr "Телефон"
+
+#: wpv_common/widgets/contactinfo.php:17
+#, fuzzy
+msgid "Cell phone:"
+msgstr "Мобильный телефон"
+
+#: wpv_common/widgets/contactinfo.php:18
+#, fuzzy
+msgid "Email:"
+msgstr "Email:"
+
+#: wpv_common/widgets/contactinfo.php:20
+#, fuzzy
+msgid "City:"
+msgstr "Город"
+
+#: wpv_common/widgets/contactinfo.php:21
+#, fuzzy
+msgid "State:"
+msgstr "Штат"
+
+#: wpv_common/widgets/contactinfo.php:22
+#, fuzzy
+msgid "ZIP/Postcode:"
+msgstr "Почтовый Код"
+
+#: wpv_common/widgets/contactinfo.php:33
+#, fuzzy
+msgid "Contact Us"
+msgstr "Свяжитесь с нами"
+
+#: wpv_common/widgets/icon-link.php:14
+msgid "Displays a list of links preceded by an icon"
+msgstr ""
+
+#: wpv_common/widgets/icon-link.php:16
+msgid "Vamtam - Links with icons"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:12
+msgid "Displays a list of posts/comments/tweets"
+msgstr ""
+
+#: wpv_common/widgets/posts.php:14
+#, fuzzy
+msgid "Vamtam - Multi widget"
+msgstr "Фоны графических фрагментов"
+
+#: wpv_common/widgets/posts.php:86
+#, fuzzy
+msgid "Popular"
+msgstr "Популярное"
+
+#: wpv_common/widgets/posts.php:88
+#, fuzzy
+msgid "Newest"
+msgstr "Самое новое"
+
+#: wpv_common/widgets/posts.php:90
+#: comments.php:55
+#, fuzzy
+msgid "Comments"
+msgstr "Комментарии"
+
+#: wpv_common/widgets/flickr.php:12
+#, fuzzy
+msgid "Displays photos from Flickr"
+msgstr "Отображает фото из Flickr"
+
+#: wpv_common/widgets/flickr.php:14
+#, fuzzy
+msgid "Vamtam - Flickr"
+msgstr " Vamtam -Flickr"
+
+#: wpv_common/widgets/flickr.php:19
+#, fuzzy
+msgid "Photos on flickr"
+msgstr "Фото из Flickr"
+
+#: wpv_common/widgets/subpages.php:12
+#, fuzzy
+msgid "Displays a list of SubPages"
+msgstr "Отображает список ПодСтраниц"
+
+#: wpv_common/widgets/subpages.php:14
+#, fuzzy
+msgid "Vamtam - List subpages"
+msgstr " Vamtam –Список ПодСтраниц"
+
+#: wpv_common/helpers/sidebars.php:13
+#, fuzzy
+msgid "Shared Page Widget Area"
+msgstr "Страницы с графическими фрагментами"
+
+#: wpv_common/helpers/sidebars.php:14
+#, fuzzy
+msgid "Blog Widget Area"
+msgstr "Блог с графическими фрагментами"
+
+#: wpv_common/helpers/sidebars.php:15
+#, fuzzy
+msgid "Portfolio Widget Area"
+msgstr "Графические фрагменты портфолио"
+
+#: wpv_common/helpers/template.php:242
+#, fuzzy
+msgid "<b>Previous</b>"
+msgstr "Предыдущее"
+
+#: wpv_common/helpers/template.php:245
+#, fuzzy
+msgid "View all"
+msgstr "Посмотреть все % форматы постов "
+
+#: wpv_common/helpers/template.php:247
+#, fuzzy
+msgid "<b>Next</b>"
+msgstr "Следующее"
+
+#: wpv_common/helpers/template.php:292
+#, fuzzy
+msgid "Load more"
+msgstr "Загрузить ещё"
+
+#: wpv_common/helpers/template.php:427
+#, fuzzy
+msgid "Leave a comment"
+msgstr "Оставить комментарий"
+
+#: wpv_common/helpers/template.php:427
+#, fuzzy
+msgid "1 Comment"
+msgstr "1 Комментарий"
+
+#: wpv_common/helpers/template.php:427
+#, fuzzy
+msgid "% Comments"
+msgstr "% Комментариев"
+
+#: wpv_common/helpers/template.php:429
+#: single-inner.php:97
+#, fuzzy
+msgid "Edit"
+msgstr "Редактировать"
+
+#: wpv_common/helpers/template.php:456
+#: wpv_common/helpers/template.php:482
+#, fuzzy
+msgid "(Edit)"
+msgstr "(Редактировать)"
+
+#: wpv_common/helpers/template.php:463
+#, fuzzy
+msgid "Your comment is awaiting moderation."
+msgstr "Ваш комментарий ожидает редактирования"
+
+#: wpv_common/helpers/template.php:482
+#, fuzzy
+msgid "Pingback:"
+msgstr "Пинг"
+
+#: wpv_common/helpers/template.php:496
+#, fuzzy
+msgid "%2$s <span class=\"meta-sep\">|</span> by %3$s"
+msgstr "%2$s <span class=\"meta-sep\">|</span> на  %3$s"
+
+#: wpv_common/helpers/template.php:505
+#, fuzzy
+msgid "View all posts by %s"
+msgstr "Просмотреть все посты по %s"
+
+#: wpv_common/helpers/template.php:520
+#, fuzzy
+msgid "Posted in %1$s <span class=\"meta-sep\">|</span> tags %2$s"
+msgstr "Опубликовано в %1$s <span class=\"meta-sep\">|</span> теги %2$s"
+
+#: wpv_common/helpers/template.php:522
+#, fuzzy
+msgid "Posted in %1$s"
+msgstr "Опубликовано в %1$s "
+
+#: wpv_common/helpers/template.php:585
+#, fuzzy
+msgid "play"
+msgstr "играть"
+
+#: wpv_common/helpers/template.php:586
+#, fuzzy
+msgid "pause"
+msgstr "пауза"
+
+#: wpv_common/helpers/template.php:587
+#, fuzzy
+msgid "stop"
+msgstr "стоп"
+
+#: wpv_common/helpers/template.php:588
+#, fuzzy
+msgid "mute"
+msgstr "убрать громкость"
+
+#: wpv_common/helpers/template.php:589
+#, fuzzy
+msgid "unmute"
+msgstr "громкость"
+
+#: wpv_common/helpers/template.php:590
+#, fuzzy
+msgid "max volume"
+msgstr "максимальный звук"
+
+#: wpv_common/helpers/template.php:665
+#, fuzzy
+msgid "Page %s"
+msgstr "Страница : %s "
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:8
+#, fuzzy
+msgid "Home"
+msgstr "Домашняя"
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:28
+#, fuzzy
+msgid "Archive by category"
+msgstr "Архив по категориям"
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:85
+#, fuzzy
+msgid "Search results for"
+msgstr "Результаты поиска для"
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:88
+#, fuzzy
+msgid "Posts tagged"
+msgstr "Теги постов"
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:93
+#, fuzzy
+msgid "Articles posted by"
+msgstr "Статьи опубликованные"
+
+#: wpv_common/helpers/dimox-breadcrumbs.php:96
+#, fuzzy
+msgid "Error 404"
+msgstr "Ошибка 404"
+
+#: wpv_common/helpers/base.php:19
+#, fuzzy
+msgid "Crop"
+msgstr "Обрезать"
+
+#: wpv_common/helpers/base.php:20
+#, fuzzy
+msgid "Crop at the top"
+msgstr "Обрезать вверху"
+
+#: wpv_common/helpers/base.php:21
+#, fuzzy
+msgid "Fit"
+msgstr "Изменить размер"
+
+#: wpv_common/helpers/base.php:22
+#, fuzzy
+msgid "Stretch"
+msgstr "Растянуть"
+
+#: wpv_common/helpers/base.php:35
+#, fuzzy
+msgid "Right to left"
+msgstr "Справа налево"
+
+#: wpv_common/helpers/base.php:36
+#, fuzzy
+msgid "Left to right"
+msgstr "Слева направо"
+
+#: wpv_common/helpers/base.php:37
+#, fuzzy
+msgid "Bottom to top"
+msgstr "Снизу вверх"
+
+#: wpv_common/helpers/base.php:38
+#, fuzzy
+msgid "Top to bottom"
+msgstr " Сверху вниз "
+
+#: wpv_common/helpers/base.php:39
+#, fuzzy
+msgid "Right to left / snake"
+msgstr "Справа налево / змея"
+
+#: wpv_common/helpers/base.php:40
+#, fuzzy
+msgid "Left to right / snake"
+msgstr "Справа налево / змея"
+
+#: wpv_common/helpers/base.php:41
+#, fuzzy
+msgid "Bottom to top / snake"
+msgstr "Снизу вверх / змея"
+
+#: wpv_common/helpers/base.php:42
+#, fuzzy
+msgid "Top to bottom / snake"
+msgstr "Сверху вниз / змея"
+
+#: wpv_common/helpers/base.php:43
+#, fuzzy
+msgid "Bottom right to top left"
+msgstr "Снизу справа вверх влево"
+
+#: wpv_common/helpers/base.php:44
+#, fuzzy
+msgid "Top left to bottom right"
+msgstr "Сверху слева вниз вправо"
+
+#: wpv_common/helpers/base.php:45
+#, fuzzy
+msgid "Bottom left to top right"
+msgstr "Снизу слева вверх вправо"
+
+#: wpv_common/helpers/base.php:46
+#, fuzzy
+msgid "Top right to bottom left"
+msgstr "Сверху справа вниз влево"
+
+#: wpv_common/helpers/base.php:820
+#, fuzzy
+msgid "Could not read image size"
+msgstr "Нечитаемый размер изображения"
+
+#: wpv_common/helpers/base.php:825
+#, fuzzy
+msgid "Could not calculate resized image dimensions"
+msgstr "Невозможно определить размеры изображения"
+
+#: comments.php:20
+#: comments.php:57
+#, fuzzy
+msgid "This post is password protected. Enter the password to view any comments."
+msgstr "Этот пост защищен паролем. Введите пароль для просмотра комментариев"
+
+#: comments.php:65
+#, fuzzy
+msgid "Post a comment"
+msgstr "Опубликовать комментарий"
+
+#: comments.php:70
+#, fuzzy
+msgid "You must be <a href=\"%s\" title=\"Log in\">logged in</a> to post a comment."
+msgstr "Вы должны <a href=\"%s\" title=\"Войти\">logged in</a>  чтобы оставить комментарий"
+
+#: comments.php:80
+#: comments.php:81
+#, fuzzy
+msgid "Email"
+msgstr "Email"
+
+#: comments.php:82
+#: comments.php:83
+#, fuzzy
+msgid "Website"
+msgstr "Сайт"
+
+#: comments.php:85
+#, fuzzy
+msgctxt "noun"
+msgid "Comment"
+msgstr "Комментарий"
+
+#: 404.php:18
+#, fuzzy
+msgid "Or start from the home page"
+msgstr "Или начните с домашней страницы"
+
+#: searchform.php:2
+#, fuzzy
+msgid "Search for:"
+msgstr "Поиск:"
+
+#: searchform.php:3
+#: searchform.php:4
+#, fuzzy
+msgid "Search"
+msgstr "Поиск:"
+
+#: single-inner.php:59
+#, fuzzy
+msgid "Read More"
+msgstr "Прочитать ещё"
+
+#: single-inner.php:88
+msgid "Tags:"
+msgstr ""
+
+#. Theme Name of the plugin/theme
+msgid "Kelta"
+msgstr ""
+
+#. Theme URI of the plugin/theme
+#, fuzzy
+msgid "http://kelta.vamtam.com"
+msgstr "http://vamtam.com/zenden "
+
+#. Description of the plugin/theme
+#, fuzzy
+msgid "WordPress Theme with powerful back-end framework."
+msgstr "WordPress тема с мощной основой"
+
+#. Author URI of the plugin/theme
+#, fuzzy
+msgid "http://vamtam.com"
+msgstr "http://vamtam.com "
+
