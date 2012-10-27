@@ -1,7 +1,7 @@
 <?php
 
 return array(
-	'dbcache.enabled' => false,
+	'dbcache.enabled' => true,
 	'dbcache.debug' => false,
 	'dbcache.engine' => 'file',
 	'dbcache.file.gc' => 3600,
@@ -20,7 +20,7 @@ return array(
 		1 => 'wp_rg_',
 	),
 	'dbcache.lifetime' => 180,
-	'objectcache.enabled' => false,
+	'objectcache.enabled' => true,
 	'objectcache.debug' => false,
 	'objectcache.engine' => 'file',
 	'objectcache.file.gc' => 3600,
@@ -108,7 +108,7 @@ return array(
 	'pgcache.prime.interval' => 900,
 	'pgcache.prime.limit' => 10,
 	'pgcache.prime.sitemap' => '',
-	'minify.enabled' => false,
+	'minify.enabled' => true,
 	'minify.auto' => true,
 	'minify.debug' => false,
 	'minify.engine' => 'file',
@@ -511,7 +511,7 @@ return array(
 	'notes.plugins_updated' => false,
 	'notes.cdn_upload' => false,
 	'notes.cdn_reupload' => false,
-	'notes.need_empty_pgcache' => false,
+	'notes.need_empty_pgcache' => true,
 	'notes.need_empty_minify' => false,
 	'notes.need_empty_objectcache' => false,
 	'notes.pgcache_rules_core' => true,
