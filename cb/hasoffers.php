@@ -1,5 +1,14 @@
 <?php
 
+$host =  "c3c7e769d2aaba43cb6589b6996da9e4bd117287.rackspaceclouddb.com";
+$username = "perf_track";
+$password = "Zippr2012";
+$db_name = "performance_track";
+
+// Connect to server and select database.
+mysql_connect("$host", "$username", "$password")or die("cannot connect"); 
+mysql_select_db("$db_name")or die("cannot select DB");
+
 
 $publisher_id = $_GET["pubid"];
 $app_id = $_GET["appid"];
@@ -39,9 +48,13 @@ $params = "&entry.0.single=$publisher_id" .
 	"&entry.16.single=$package_app_name"
 	;
 
-$url  =  $gpost . $params;
-#print $url;
-$result  = file_get_contents($url);
-print "thank you";
-#print "Result = " . $result;
+
+$sql= "INSERT INTO `performance_track`.`hasoffers` (`ho_pubid`, `ho_appid`, `ho_campaignid`, `ho_campaignurlid`, `ho_trackingid`, `ho_pubsub1`, `ho_pubsub2`, `ho_pubsub3`, `ho_pubsub4`, `ho_pubsub5`, `ho_pubrefid`, `ho_userid`, `ho_deviceip`, `ho_macaddress`, `ho_openudid`, `ho_packageappname`) VALUES ('$publisher_id', '$app_id', '$campaign_id', '$campaign_url_id', '$tracking_id', '$publisher_sub1', '$publisher_sub2', '$publisher_sub3', '$publisher_sub4', '$publisher_sub5', '$publisher_ref_id', '$user_id', '$device_ip', '$mac_address', '$open_udid', '$package_app_name')";
+
+$sqlresult=mysql_query($sql);
+if ($sqlresult){	
+	print "thank you" ;
+	$url  =  $gpost . $params;
+	$result  = file_get_contents($url);
+}else{ print "error"; };
 ?>
