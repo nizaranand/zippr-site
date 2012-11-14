@@ -1,0 +1,6 @@
+AuthUserFile /data/.htpasswd
+AuthName EnterPassword
+AuthType Basic
+<Limit GET POST>
+require valid-user
+</Limit>
