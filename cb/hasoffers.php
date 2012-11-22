@@ -27,7 +27,10 @@ if ($_GET){
 
 	$sql= "INSERT INTO `performance_track`.`hasoffers` (`ho_pubid`, `ho_appid`, `ho_trackingid`, `ho_pubsub1`, `ho_pubsub2`, `ho_pubsub3`, `ho_pubsub4`, `ho_pubsub5`, `ho_pubrefid`, `ho_deviceip`, `ho_macaddress`, `ho_openudid`, `ho_packageappname`) VALUES ('$publisher_id', '$app_id', '$tracking_id', '$publisher_sub1', '$publisher_sub2', '$publisher_sub3', '$publisher_sub4', '$publisher_sub5', '$publisher_ref_id', '$device_ip', '$mac_address', '$open_udid', '$package_app_name')";
 
+	$sql2= "INSERT INTO `performance_track`.`callback` (`clickid`, `type`, `macaddress`, `trackingid`, `ref_id`) VALUES ('$publisher_ref_id', 'hasoffers', '$mac_address', '$tracking_id', '$open_udid
+')";
 	$sqlresult=mysql_query($sql);
+	$sqlresult=mysql_query($sql2);
 	if ($sqlresult){	
 		print "thank you" ;
 	}else{ print "error"; };
